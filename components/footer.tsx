@@ -35,6 +35,8 @@ export default function Footer() {
       name: t("partners.germanWordle"),
       href: "https://wortchamp.com",
     },
+    { name: 'SudokuAgora', href: 'https://sudokuagora.com/', follow: true },
+    { name: 'SudokuDefi', href: 'https://sudokudefi.com/', follow: true },
     // { name: "Morse Code Kit", href: "https://morsecodekit.com/", follow: true },
     // { name: "PrintableGen", href: "https://printablegen.com/", follow: true },
     // { name: "Generate Org Chart", href: "https://generateorgchart.com/", follow: true },
