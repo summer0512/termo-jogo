@@ -75,7 +75,7 @@ const POPUNDER_LAST_SHOWN_AT_KEY = "termo-popunder-last-shown-at";
 const POPUNDER_COMPLETED_ROUNDS_KEY = "termo-popunder-completed-rounds";
 const POPUNDER_SESSION_CAP = 1;
 const POPUNDER_COOLDOWN_MS = 24 * 60 * 60 * 1000;
-const POPUNDER_MIN_COMPLETED_ROUNDS = 2;
+const POPUNDER_MIN_COMPLETED_ROUNDS = 1;
 
 const getTodayString = (): string => new Date().toISOString().split("T")[0];
 
