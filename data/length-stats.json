@@ -1,0 +1,1604 @@
+{
+  "3": {
+    "length": 3,
+    "answers": {
+      "wordCount": 609,
+      "vowelAverage": 1.3,
+      "duplicateRate": 0.1248,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1346
+        },
+        {
+          "letter": "O",
+          "share": 0.0887
+        },
+        {
+          "letter": "I",
+          "share": 0.0821
+        },
+        {
+          "letter": "E",
+          "share": 0.0777
+        },
+        {
+          "letter": "S",
+          "share": 0.0701
+        },
+        {
+          "letter": "P",
+          "share": 0.0673
+        },
+        {
+          "letter": "M",
+          "share": 0.0569
+        },
+        {
+          "letter": "C",
+          "share": 0.0536
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "OS",
+          "share": 0.0213
+        },
+        {
+          "ending": "AI",
+          "share": 0.0213
+        },
+        {
+          "ending": "AS",
+          "share": 0.0197
+        },
+        {
+          "ending": "IA",
+          "share": 0.0197
+        },
+        {
+          "ending": "EM",
+          "share": 0.0197
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "IRA",
+          "share": 0.0049
+        },
+        {
+          "ending": "ALA",
+          "share": 0.0033
+        },
+        {
+          "ending": "AMA",
+          "share": 0.0033
+        },
+        {
+          "ending": "ANA",
+          "share": 0.0033
+        },
+        {
+          "ending": "ATE",
+          "share": 0.0033
+        }
+      ],
+      "starterWords": [
+        "OEA",
+        "AOS",
+        "SÃO",
+        "SOA",
+        "OPA",
+        "PÃO"
+      ]
+    },
+    "all": {
+      "wordCount": 1103,
+      "vowelAverage": 1.15,
+      "duplicateRate": 0.1287,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1163
+        },
+        {
+          "letter": "P",
+          "share": 0.0756
+        },
+        {
+          "letter": "O",
+          "share": 0.0743
+        },
+        {
+          "letter": "E",
+          "share": 0.074
+        },
+        {
+          "letter": "I",
+          "share": 0.0707
+        },
+        {
+          "letter": "C",
+          "share": 0.0692
+        },
+        {
+          "letter": "S",
+          "share": 0.0656
+        },
+        {
+          "letter": "M",
+          "share": 0.0538
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "AS",
+          "share": 0.0181
+        },
+        {
+          "ending": "AO",
+          "share": 0.0145
+        },
+        {
+          "ending": "IA",
+          "share": 0.0136
+        },
+        {
+          "ending": "OS",
+          "share": 0.0136
+        },
+        {
+          "ending": "AI",
+          "share": 0.0127
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "AVO",
+          "share": 0.0027
+        },
+        {
+          "ending": "IRA",
+          "share": 0.0027
+        },
+        {
+          "ending": "PRA",
+          "share": 0.0027
+        },
+        {
+          "ending": "RES",
+          "share": 0.0027
+        },
+        {
+          "ending": "ADE",
+          "share": 0.0018
+        }
+      ],
+      "allowCount": 1103
+    }
+  },
+  "4": {
+    "length": 4,
+    "answers": {
+      "wordCount": 1330,
+      "vowelAverage": 1.98,
+      "duplicateRate": 0.2902,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1686
+        },
+        {
+          "letter": "O",
+          "share": 0.1224
+        },
+        {
+          "letter": "E",
+          "share": 0.0936
+        },
+        {
+          "letter": "I",
+          "share": 0.0682
+        },
+        {
+          "letter": "R",
+          "share": 0.0558
+        },
+        {
+          "letter": "S",
+          "share": 0.0536
+        },
+        {
+          "letter": "L",
+          "share": 0.0498
+        },
+        {
+          "letter": "T",
+          "share": 0.0447
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "RA",
+          "share": 0.0406
+        },
+        {
+          "ending": "LA",
+          "share": 0.0331
+        },
+        {
+          "ending": "CA",
+          "share": 0.0323
+        },
+        {
+          "ending": "TA",
+          "share": 0.0316
+        },
+        {
+          "ending": "TO",
+          "share": 0.0316
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "ARA",
+          "share": 0.0105
+        },
+        {
+          "ending": "ERA",
+          "share": 0.009
+        },
+        {
+          "ending": "ALA",
+          "share": 0.0083
+        },
+        {
+          "ending": "ATA",
+          "share": 0.0083
+        },
+        {
+          "ending": "ATO",
+          "share": 0.0083
+        }
+      ],
+      "starterWords": [
+        "LEÃO",
+        "LEOA",
+        "IRÃO",
+        "RAIO",
+        "SAIO",
+        "SOAR"
+      ]
+    },
+    "all": {
+      "wordCount": 2686,
+      "vowelAverage": 2,
+      "duplicateRate": 0.2874,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1631
+        },
+        {
+          "letter": "O",
+          "share": 0.1179
+        },
+        {
+          "letter": "E",
+          "share": 0.0925
+        },
+        {
+          "letter": "I",
+          "share": 0.0793
+        },
+        {
+          "letter": "R",
+          "share": 0.0571
+        },
+        {
+          "letter": "S",
+          "share": 0.0517
+        },
+        {
+          "letter": "U",
+          "share": 0.0472
+        },
+        {
+          "letter": "C",
+          "share": 0.0455
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "CA",
+          "share": 0.0305
+        },
+        {
+          "ending": "RA",
+          "share": 0.0279
+        },
+        {
+          "ending": "TO",
+          "share": 0.0238
+        },
+        {
+          "ending": "CO",
+          "share": 0.0235
+        },
+        {
+          "ending": "RO",
+          "share": 0.0231
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "ACA",
+          "share": 0.0074
+        },
+        {
+          "ending": "ARA",
+          "share": 0.0063
+        },
+        {
+          "ending": "OCA",
+          "share": 0.006
+        },
+        {
+          "ending": "OCO",
+          "share": 0.006
+        },
+        {
+          "ending": "ORO",
+          "share": 0.006
+        }
+      ],
+      "allowCount": 2686
+    }
+  },
+  "5": {
+    "length": 5,
+    "answers": {
+      "wordCount": 2688,
+      "vowelAverage": 2.32,
+      "duplicateRate": 0.4103,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1591
+        },
+        {
+          "letter": "O",
+          "share": 0.1098
+        },
+        {
+          "letter": "E",
+          "share": 0.089
+        },
+        {
+          "letter": "R",
+          "share": 0.0819
+        },
+        {
+          "letter": "S",
+          "share": 0.0692
+        },
+        {
+          "letter": "I",
+          "share": 0.0652
+        },
+        {
+          "letter": "T",
+          "share": 0.0498
+        },
+        {
+          "letter": "C",
+          "share": 0.0432
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "AS",
+          "share": 0.0629
+        },
+        {
+          "ending": "AR",
+          "share": 0.0443
+        },
+        {
+          "ending": "OS",
+          "share": 0.0409
+        },
+        {
+          "ending": "TA",
+          "share": 0.0383
+        },
+        {
+          "ending": "TO",
+          "share": 0.0365
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "STA",
+          "share": 0.0086
+        },
+        {
+          "ending": "TAS",
+          "share": 0.0078
+        },
+        {
+          "ending": "CAS",
+          "share": 0.0074
+        },
+        {
+          "ending": "NTA",
+          "share": 0.0074
+        },
+        {
+          "ending": "STO",
+          "share": 0.0071
+        }
+      ],
+      "starterWords": [
+        "SERÃO",
+        "TERÃO",
+        "ORAIS",
+        "RAIOS",
+        "ESTÃO",
+        "TESÃO"
+      ]
+    },
+    "all": {
+      "wordCount": 5924,
+      "vowelAverage": 2.38,
+      "duplicateRate": 0.4305,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1651
+        },
+        {
+          "letter": "O",
+          "share": 0.1041
+        },
+        {
+          "letter": "E",
+          "share": 0.0892
+        },
+        {
+          "letter": "R",
+          "share": 0.0769
+        },
+        {
+          "letter": "I",
+          "share": 0.0739
+        },
+        {
+          "letter": "S",
+          "share": 0.0617
+        },
+        {
+          "letter": "C",
+          "share": 0.0445
+        },
+        {
+          "letter": "T",
+          "share": 0.0434
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "AS",
+          "share": 0.0557
+        },
+        {
+          "ending": "AR",
+          "share": 0.0442
+        },
+        {
+          "ending": "ES",
+          "share": 0.038
+        },
+        {
+          "ending": "IA",
+          "share": 0.0311
+        },
+        {
+          "ending": "RA",
+          "share": 0.0289
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "RAS",
+          "share": 0.0071
+        },
+        {
+          "ending": "CAS",
+          "share": 0.0069
+        },
+        {
+          "ending": "QUE",
+          "share": 0.0062
+        },
+        {
+          "ending": "ARA",
+          "share": 0.0061
+        },
+        {
+          "ending": "TAS",
+          "share": 0.0059
+        }
+      ],
+      "allowCount": 5924
+    }
+  },
+  "6": {
+    "length": 6,
+    "answers": {
+      "wordCount": 3308,
+      "vowelAverage": 2.81,
+      "duplicateRate": 0.5943,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1654
+        },
+        {
+          "letter": "O",
+          "share": 0.0982
+        },
+        {
+          "letter": "E",
+          "share": 0.0904
+        },
+        {
+          "letter": "R",
+          "share": 0.081
+        },
+        {
+          "letter": "I",
+          "share": 0.0745
+        },
+        {
+          "letter": "S",
+          "share": 0.0682
+        },
+        {
+          "letter": "T",
+          "share": 0.0489
+        },
+        {
+          "letter": "C",
+          "share": 0.0484
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "AS",
+          "share": 0.0716
+        },
+        {
+          "ending": "AR",
+          "share": 0.065
+        },
+        {
+          "ending": "OS",
+          "share": 0.0571
+        },
+        {
+          "ending": "DO",
+          "share": 0.0469
+        },
+        {
+          "ending": "DA",
+          "share": 0.0381
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "ADO",
+          "share": 0.0233
+        },
+        {
+          "ending": "ADA",
+          "share": 0.0224
+        },
+        {
+          "ending": "IDO",
+          "share": 0.0151
+        },
+        {
+          "ending": "TAR",
+          "share": 0.013
+        },
+        {
+          "ending": "TOS",
+          "share": 0.0127
+        }
+      ],
+      "starterWords": [
+        "OEIRAS",
+        "TEORIA",
+        "COREIA",
+        "ATORES",
+        "SERTÃO",
+        "AÇORES"
+      ]
+    },
+    "all": {
+      "wordCount": 8557,
+      "vowelAverage": 2.87,
+      "duplicateRate": 0.608,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.172
+        },
+        {
+          "letter": "O",
+          "share": 0.0935
+        },
+        {
+          "letter": "E",
+          "share": 0.0902
+        },
+        {
+          "letter": "I",
+          "share": 0.079
+        },
+        {
+          "letter": "R",
+          "share": 0.0789
+        },
+        {
+          "letter": "S",
+          "share": 0.0592
+        },
+        {
+          "letter": "C",
+          "share": 0.0497
+        },
+        {
+          "letter": "T",
+          "share": 0.0455
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "AS",
+          "share": 0.0642
+        },
+        {
+          "ending": "AR",
+          "share": 0.0587
+        },
+        {
+          "ending": "DO",
+          "share": 0.0399
+        },
+        {
+          "ending": "OS",
+          "share": 0.0388
+        },
+        {
+          "ending": "RA",
+          "share": 0.0382
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "ADO",
+          "share": 0.0216
+        },
+        {
+          "ending": "ARA",
+          "share": 0.0158
+        },
+        {
+          "ending": "ADA",
+          "share": 0.0153
+        },
+        {
+          "ending": "AVA",
+          "share": 0.0139
+        },
+        {
+          "ending": "ICO",
+          "share": 0.0104
+        }
+      ],
+      "allowCount": 8557
+    }
+  },
+  "7": {
+    "length": 7,
+    "answers": {
+      "wordCount": 3978,
+      "vowelAverage": 3.3,
+      "duplicateRate": 0.7481,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.162
+        },
+        {
+          "letter": "E",
+          "share": 0.1002
+        },
+        {
+          "letter": "O",
+          "share": 0.0965
+        },
+        {
+          "letter": "R",
+          "share": 0.0859
+        },
+        {
+          "letter": "I",
+          "share": 0.077
+        },
+        {
+          "letter": "S",
+          "share": 0.0591
+        },
+        {
+          "letter": "N",
+          "share": 0.0514
+        },
+        {
+          "letter": "T",
+          "share": 0.0507
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "DO",
+          "share": 0.0837
+        },
+        {
+          "ending": "AR",
+          "share": 0.0603
+        },
+        {
+          "ending": "AS",
+          "share": 0.0475
+        },
+        {
+          "ending": "OS",
+          "share": 0.0473
+        },
+        {
+          "ending": "DA",
+          "share": 0.043
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "ADO",
+          "share": 0.0422
+        },
+        {
+          "ending": "ADA",
+          "share": 0.0266
+        },
+        {
+          "ending": "NDO",
+          "share": 0.0254
+        },
+        {
+          "ending": "CAO",
+          "share": 0.0161
+        },
+        {
+          "ending": "RAM",
+          "share": 0.0156
+        }
+      ],
+      "starterWords": [
+        "ESTÓRIA",
+        "ORIENTA",
+        "ESTÔNIA",
+        "TRANSEI",
+        "TIRANOS",
+        "CASEIRO"
+      ]
+    },
+    "all": {
+      "wordCount": 11485,
+      "vowelAverage": 3.33,
+      "duplicateRate": 0.763,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1714
+        },
+        {
+          "letter": "E",
+          "share": 0.0992
+        },
+        {
+          "letter": "O",
+          "share": 0.089
+        },
+        {
+          "letter": "R",
+          "share": 0.0835
+        },
+        {
+          "letter": "I",
+          "share": 0.078
+        },
+        {
+          "letter": "S",
+          "share": 0.0579
+        },
+        {
+          "letter": "C",
+          "share": 0.0482
+        },
+        {
+          "letter": "N",
+          "share": 0.0469
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "DO",
+          "share": 0.0623
+        },
+        {
+          "ending": "AR",
+          "share": 0.0545
+        },
+        {
+          "ending": "AS",
+          "share": 0.0505
+        },
+        {
+          "ending": "AM",
+          "share": 0.0501
+        },
+        {
+          "ending": "RA",
+          "share": 0.0468
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "ADO",
+          "share": 0.0326
+        },
+        {
+          "ending": "ARA",
+          "share": 0.0209
+        },
+        {
+          "ending": "AVA",
+          "share": 0.0195
+        },
+        {
+          "ending": "ADA",
+          "share": 0.0185
+        },
+        {
+          "ending": "NDO",
+          "share": 0.0172
+        }
+      ],
+      "allowCount": 11485
+    }
+  },
+  "8": {
+    "length": 8,
+    "answers": {
+      "wordCount": 3955,
+      "vowelAverage": 3.66,
+      "duplicateRate": 0.8546,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1461
+        },
+        {
+          "letter": "E",
+          "share": 0.1001
+        },
+        {
+          "letter": "O",
+          "share": 0.098
+        },
+        {
+          "letter": "R",
+          "share": 0.0896
+        },
+        {
+          "letter": "I",
+          "share": 0.0809
+        },
+        {
+          "letter": "S",
+          "share": 0.0655
+        },
+        {
+          "letter": "N",
+          "share": 0.0569
+        },
+        {
+          "letter": "C",
+          "share": 0.0526
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "DO",
+          "share": 0.0948
+        },
+        {
+          "ending": "OS",
+          "share": 0.0668
+        },
+        {
+          "ending": "AR",
+          "share": 0.0635
+        },
+        {
+          "ending": "AS",
+          "share": 0.0518
+        },
+        {
+          "ending": "AM",
+          "share": 0.0503
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "ADO",
+          "share": 0.0422
+        },
+        {
+          "ending": "NDO",
+          "share": 0.0351
+        },
+        {
+          "ending": "CAO",
+          "share": 0.0271
+        },
+        {
+          "ending": "RAM",
+          "share": 0.0228
+        },
+        {
+          "ending": "ADA",
+          "share": 0.0212
+        }
+      ],
+      "starterWords": [
+        "CENÁRIOS",
+        "ESCÁRNIO",
+        "INSERÇÃO",
+        "ESPIONAR",
+        "INVERSÃO",
+        "SENHORIA"
+      ]
+    },
+    "all": {
+      "wordCount": 12738,
+      "vowelAverage": 3.72,
+      "duplicateRate": 0.8685,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1633
+        },
+        {
+          "letter": "E",
+          "share": 0.101
+        },
+        {
+          "letter": "R",
+          "share": 0.0882
+        },
+        {
+          "letter": "O",
+          "share": 0.0881
+        },
+        {
+          "letter": "I",
+          "share": 0.0782
+        },
+        {
+          "letter": "S",
+          "share": 0.0643
+        },
+        {
+          "letter": "N",
+          "share": 0.0524
+        },
+        {
+          "letter": "C",
+          "share": 0.0481
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "DO",
+          "share": 0.0791
+        },
+        {
+          "ending": "AM",
+          "share": 0.0687
+        },
+        {
+          "ending": "OS",
+          "share": 0.0621
+        },
+        {
+          "ending": "AS",
+          "share": 0.0572
+        },
+        {
+          "ending": "AR",
+          "share": 0.0544
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "ADO",
+          "share": 0.0408
+        },
+        {
+          "ending": "MOS",
+          "share": 0.0287
+        },
+        {
+          "ending": "NDO",
+          "share": 0.0271
+        },
+        {
+          "ending": "RAM",
+          "share": 0.0234
+        },
+        {
+          "ending": "AVA",
+          "share": 0.021
+        }
+      ],
+      "allowCount": 12738
+    }
+  },
+  "9": {
+    "length": 9,
+    "answers": {
+      "wordCount": 3084,
+      "vowelAverage": 4.16,
+      "duplicateRate": 0.9303,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1456
+        },
+        {
+          "letter": "E",
+          "share": 0.0995
+        },
+        {
+          "letter": "O",
+          "share": 0.0975
+        },
+        {
+          "letter": "I",
+          "share": 0.0877
+        },
+        {
+          "letter": "R",
+          "share": 0.0844
+        },
+        {
+          "letter": "S",
+          "share": 0.0642
+        },
+        {
+          "letter": "N",
+          "share": 0.0614
+        },
+        {
+          "letter": "C",
+          "share": 0.0576
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "DO",
+          "share": 0.1248
+        },
+        {
+          "ending": "AO",
+          "share": 0.0681
+        },
+        {
+          "ending": "OS",
+          "share": 0.0639
+        },
+        {
+          "ending": "AR",
+          "share": 0.0613
+        },
+        {
+          "ending": "AS",
+          "share": 0.0538
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "ADO",
+          "share": 0.0616
+        },
+        {
+          "ending": "CAO",
+          "share": 0.0509
+        },
+        {
+          "ending": "NDO",
+          "share": 0.0399
+        },
+        {
+          "ending": "ADA",
+          "share": 0.0315
+        },
+        {
+          "ending": "NTE",
+          "share": 0.0246
+        }
+      ],
+      "starterWords": [
+        "CARNEIROS",
+        "CONSIDERA",
+        "ORIENTAIS",
+        "PROTEÍNAS",
+        "REGIONAIS",
+        "RESPONDIA"
+      ]
+    },
+    "all": {
+      "wordCount": 11538,
+      "vowelAverage": 4.17,
+      "duplicateRate": 0.9363,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1614
+        },
+        {
+          "letter": "E",
+          "share": 0.1022
+        },
+        {
+          "letter": "R",
+          "share": 0.087
+        },
+        {
+          "letter": "O",
+          "share": 0.086
+        },
+        {
+          "letter": "I",
+          "share": 0.0818
+        },
+        {
+          "letter": "S",
+          "share": 0.0648
+        },
+        {
+          "letter": "N",
+          "share": 0.0559
+        },
+        {
+          "letter": "C",
+          "share": 0.0505
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "DO",
+          "share": 0.1012
+        },
+        {
+          "ending": "AM",
+          "share": 0.0787
+        },
+        {
+          "ending": "OS",
+          "share": 0.0688
+        },
+        {
+          "ending": "AS",
+          "share": 0.0495
+        },
+        {
+          "ending": "EM",
+          "share": 0.0484
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "ADO",
+          "share": 0.0511
+        },
+        {
+          "ending": "NDO",
+          "share": 0.0387
+        },
+        {
+          "ending": "MOS",
+          "share": 0.0376
+        },
+        {
+          "ending": "RAM",
+          "share": 0.0291
+        },
+        {
+          "ending": "AVA",
+          "share": 0.0259
+        }
+      ],
+      "allowCount": 11538
+    }
+  },
+  "10": {
+    "length": 10,
+    "answers": {
+      "wordCount": 2314,
+      "vowelAverage": 4.55,
+      "duplicateRate": 0.9723,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1337
+        },
+        {
+          "letter": "E",
+          "share": 0.1087
+        },
+        {
+          "letter": "O",
+          "share": 0.0939
+        },
+        {
+          "letter": "I",
+          "share": 0.0904
+        },
+        {
+          "letter": "R",
+          "share": 0.0842
+        },
+        {
+          "letter": "N",
+          "share": 0.0704
+        },
+        {
+          "letter": "S",
+          "share": 0.0619
+        },
+        {
+          "letter": "C",
+          "share": 0.056
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "DO",
+          "share": 0.1366
+        },
+        {
+          "ending": "OS",
+          "share": 0.0804
+        },
+        {
+          "ending": "AO",
+          "share": 0.0622
+        },
+        {
+          "ending": "IA",
+          "share": 0.0596
+        },
+        {
+          "ending": "TE",
+          "share": 0.054
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "ADO",
+          "share": 0.0627
+        },
+        {
+          "ending": "NDO",
+          "share": 0.0622
+        },
+        {
+          "ending": "CAO",
+          "share": 0.0566
+        },
+        {
+          "ending": "NTE",
+          "share": 0.051
+        },
+        {
+          "ending": "RAM",
+          "share": 0.032
+        }
+      ],
+      "starterWords": [
+        "CONSIDERAM",
+        "CONSIDERAR",
+        "DESCONFIAR",
+        "ESTACIONAR",
+        "INTERSEÇÃO",
+        "MICRONÉSIA"
+      ]
+    },
+    "all": {
+      "wordCount": 9492,
+      "vowelAverage": 4.55,
+      "duplicateRate": 0.975,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1496
+        },
+        {
+          "letter": "E",
+          "share": 0.1072
+        },
+        {
+          "letter": "R",
+          "share": 0.0893
+        },
+        {
+          "letter": "O",
+          "share": 0.0859
+        },
+        {
+          "letter": "I",
+          "share": 0.0845
+        },
+        {
+          "letter": "S",
+          "share": 0.0668
+        },
+        {
+          "letter": "N",
+          "share": 0.0627
+        },
+        {
+          "letter": "T",
+          "share": 0.0506
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "DO",
+          "share": 0.1121
+        },
+        {
+          "ending": "OS",
+          "share": 0.0913
+        },
+        {
+          "ending": "AM",
+          "share": 0.0889
+        },
+        {
+          "ending": "IA",
+          "share": 0.0579
+        },
+        {
+          "ending": "EM",
+          "share": 0.0481
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "NDO",
+          "share": 0.0554
+        },
+        {
+          "ending": "MOS",
+          "share": 0.0553
+        },
+        {
+          "ending": "ADO",
+          "share": 0.0495
+        },
+        {
+          "ending": "RAM",
+          "share": 0.0398
+        },
+        {
+          "ending": "RIA",
+          "share": 0.0299
+        }
+      ],
+      "allowCount": 9492
+    }
+  },
+  "11": {
+    "length": 11,
+    "answers": {
+      "wordCount": 1447,
+      "vowelAverage": 4.99,
+      "duplicateRate": 0.9924,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1329
+        },
+        {
+          "letter": "E",
+          "share": 0.1081
+        },
+        {
+          "letter": "O",
+          "share": 0.0931
+        },
+        {
+          "letter": "I",
+          "share": 0.093
+        },
+        {
+          "letter": "R",
+          "share": 0.0791
+        },
+        {
+          "letter": "N",
+          "share": 0.0764
+        },
+        {
+          "letter": "C",
+          "share": 0.0635
+        },
+        {
+          "letter": "T",
+          "share": 0.0608
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "DO",
+          "share": 0.1327
+        },
+        {
+          "ending": "AO",
+          "share": 0.0947
+        },
+        {
+          "ending": "TE",
+          "share": 0.0733
+        },
+        {
+          "ending": "OS",
+          "share": 0.0705
+        },
+        {
+          "ending": "IA",
+          "share": 0.0581
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "CAO",
+          "share": 0.0829
+        },
+        {
+          "ending": "NTE",
+          "share": 0.0726
+        },
+        {
+          "ending": "ADO",
+          "share": 0.0615
+        },
+        {
+          "ending": "NDO",
+          "share": 0.0601
+        },
+        {
+          "ending": "ADE",
+          "share": 0.038
+        }
+      ],
+      "starterWords": [
+        "ACONTECERIA",
+        "COMENTÁRIOS",
+        "COMERCIANTE",
+        "CONCRETIZAR",
+        "CONFEITARIA",
+        "AERONÁUTICA"
+      ]
+    },
+    "all": {
+      "wordCount": 6375,
+      "vowelAverage": 4.95,
+      "duplicateRate": 0.9923,
+      "topLetters": [
+        {
+          "letter": "A",
+          "share": 0.1434
+        },
+        {
+          "letter": "E",
+          "share": 0.1066
+        },
+        {
+          "letter": "I",
+          "share": 0.0884
+        },
+        {
+          "letter": "O",
+          "share": 0.0862
+        },
+        {
+          "letter": "R",
+          "share": 0.0849
+        },
+        {
+          "letter": "S",
+          "share": 0.0711
+        },
+        {
+          "letter": "N",
+          "share": 0.0664
+        },
+        {
+          "letter": "C",
+          "share": 0.055
+        }
+      ],
+      "commonEndings2": [
+        {
+          "ending": "DO",
+          "share": 0.1219
+        },
+        {
+          "ending": "OS",
+          "share": 0.1109
+        },
+        {
+          "ending": "AM",
+          "share": 0.0935
+        },
+        {
+          "ending": "IA",
+          "share": 0.062
+        },
+        {
+          "ending": "EM",
+          "share": 0.059
+        }
+      ],
+      "commonEndings3": [
+        {
+          "ending": "MOS",
+          "share": 0.072
+        },
+        {
+          "ending": "NDO",
+          "share": 0.0632
+        },
+        {
+          "ending": "ADO",
+          "share": 0.0508
+        },
+        {
+          "ending": "RAM",
+          "share": 0.045
+        },
+        {
+          "ending": "CAO",
+          "share": 0.0345
+        }
+      ],
+      "allowCount": 6375
+    }
+  }
+}

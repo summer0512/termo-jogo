@@ -1,0 +1,19 @@
+{
+  "main": ".open-next/worker.js",
+  "name": "termo",
+  "compatibility_date": "2025-03-25",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "TERMO",
+      "id": "b27f774e1cd8423a9b3aec7f7e7e07a3",  // TERMO 的 Namespace ID
+      "preview_id": "b27f774e1cd8423a9b3aec7f7e7e07a3"  // 可选，预览用
+    }
+  ]
+}

@@ -1,0 +1,4153 @@
+{
+  "HomePage": {
+    "title": "Termo - Jogo de Palavras em Português | termo-jogo.com",
+    "description": "Jogue Termo grátis em português: palavra diária, modo infinito, desafios personalizados e estatísticas do clássico jogo de 5 letras no termo-jogo.com.",
+    "keywords": "termo, termo jogo, termo de hoje, termo infinito, desafio termo, wordle português",
+    "h1": "Termo - Jogo de Palavras em Português",
+    "gameIntro": {
+      "title": "O Que é o Termo?",
+      "subtitle": "Descubra o Termo, o jogo de palavras mais viciante em português",
+      "description": "Termo é o jogo de palavras mais popular em português, conhecido também como wordle português, mas totalmente adaptado para nossa língua. No termo-jogo.com você encontra o termo de hoje com uma nova palavra diária oficial, além do termo infinito com palavras ilimitadas. Seu objetivo é simples: adivinhar uma palavra de 5 letras em até 6 tentativas usando as dicas visuais coloridas do Termo.",
+      "features": [
+        "🎯 Nova palavra todos os dias no Termo de hoje",
+        "♾️ Modo infinito para jogar sem parar",
+        "🔗 Crie desafios personalizados para seus amigos",
+        "📱 Funciona perfeitamente no celular e computador",
+        "🏆 Acompanhe suas estatísticas e sequências",
+        "🎨 Interface clean e intuitiva para melhor experiência"
+      ],
+      "featureHighlights": [
+        {
+          "title": "Termo diário sincronizado",
+          "description": "Jogue o termo de hoje com a mesma palavra oficial liberada para todos os jogadores às 00h.",
+          "keyword": "termo de hoje"
+        },
+        {
+          "title": "Modo infinito sem limites",
+          "description": "Pratique quantas vezes quiser no termo infinito, com milhares de palavras de 5 letras em português.",
+          "keyword": "termo infinito"
+        },
+        {
+          "title": "Desafios personalizados",
+          "description": "Crie desafios compartilháveis escolhendo qualquer palavra de 5 letras e envie o link para seus amigos.",
+          "keyword": "desafio termo"
+        },
+        {
+          "title": "Estatísticas completas",
+          "description": "Acompanhe vitórias, distribuição de tentativas e sequência diária diretamente no navegador.",
+          "keyword": "estatísticas do termo"
+        },
+        {
+          "title": "Wordle em português",
+          "description": "Vocabulário 100% PT-BR, com suporte a acentos e palavras comuns. Ideal para quem procura um wordle português.",
+          "keyword": "wordle português"
+        },
+        {
+          "title": "Interface responsiva",
+          "description": "Interface leve que funciona perfeitamente no celular, tablet e computador.",
+          "keyword": "jogo de palavras no celular"
+        }
+      ]
+    },
+    "howToPlay": {
+      "title": "Como Jogar Termo - Guia Completo",
+      "subtitle": "Aprenda as regras do Termo em menos de 1 minuto",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Digite uma palavra",
+          "description": "Comece digitando qualquer palavra de 5 letras em português no Termo. Pode ser substantivo, verbo, adjetivo - qualquer palavra válida!"
+        },
+        {
+          "number": "2",
+          "title": "Observe as cores",
+          "description": "🟩 Verde: letra correta no lugar certo | 🟨 Amarelo: letra existe, mas está no lugar errado | ⬛ Cinza: letra não existe na palavra"
+        },
+        {
+          "number": "3",
+          "title": "Use as dicas",
+          "description": "Com base nas cores, faça seu próximo palpite. Elimine letras cinzas, reposicione as amarelas e mantenha as verdes no lugar."
+        },
+        {
+          "number": "4",
+          "title": "Descubra a palavra",
+          "description": "Você tem 6 tentativas para descobrir a palavra secreta. Quanto menos tentativas usar, melhor sua pontuação!"
+        }
+      ],
+      "tips": {
+        "title": "Dicas para Ser um Mestre do Termo",
+        "list": [
+          "Comece com palavras que tenham vogais variadas como AUDIO ou OUTRA",
+          "Use palavras com consoantes comuns como R, S, T, N, L nas primeiras tentativas",
+          "Preste atenção nas letras amarelas - elas estão na palavra, só no lugar errado",
+          "Evite repetir letras que já apareceram em cinza"
+        ]
+      }
+    },
+    "faq": {
+      "title": "Perguntas Frequentes sobre Termo, Termo de Hoje e Termo Infinito",
+      "subtitle": "Tire todas suas dúvidas sobre o Termo, termo de hoje e termo infinito",
+      "questions": [
+        {
+          "question": "Qual a diferença entre termo de hoje e termo infinito?",
+          "answer": "O termo de hoje oferece uma nova palavra oficial a cada dia às 00h, que é a mesma para todos os jogadores. É o desafio diário oficial do termo jogo. Já o termo infinito permite jogar quantas vezes quiser com palavras aleatórias diferentes, perfeito para praticar suas habilidades sem esperar o próximo dia. No termo infinito você pode jogar centenas de partidas seguidas!"
+        },
+        {
+          "question": "Posso jogar Termo no celular?",
+          "answer": "Sim! O Termo foi desenvolvido para funcionar perfeitamente em qualquer dispositivo - celular, tablet ou computador. Não precisa baixar nenhum aplicativo, basta acessar pelo navegador."
+        },
+        {
+          "question": "Como funciona o sistema de desafios personalizados?",
+          "answer": "Você pode criar um desafio escolhendo uma palavra de 5 letras e gerando um link especial. Compartilhe esse link com amigos e eles terão que adivinhar exatamente a palavra que você escolheu!"
+        },
+        {
+          "question": "As palavras do Termo são sempre em português brasileiro?",
+          "answer": "Sim! Todas as palavras são em português e fazem parte do vocabulário comum. Evitamos palavras muito técnicas, regionalismos extremos ou termos obsoletos."
+        },
+        {
+          "question": "Posso ver as estatísticas dos meus jogos?",
+          "answer": "Claro! O jogo salva automaticamente suas estatísticas, incluindo número de jogos, percentual de vitórias, distribuição de tentativas e sua sequência atual de vitórias."
+        },
+        {
+          "question": "O que acontece se eu não conseguir adivinhar a palavra?",
+          "answer": "Se você esgotar as 6 tentativas sem acertar, o jogo revela a palavra correta. No Termo de hoje, você pode tentar novamente no dia seguinte. No modo infinito, pode começar um novo jogo imediatamente."
+        },
+        {
+          "question": "Posso compartilhar meu resultado nas redes sociais?",
+          "answer": "Sim! Após completar um jogo, você pode compartilhar seu resultado usando emojis coloridos que mostram seu desempenho sem revelar a palavra. É uma forma divertida de desafiar seus amigos!"
+        },
+        {
+          "question": "Existe alguma estratégia especial para o Termo?",
+          "answer": "A melhor estratégia é começar com palavras que tenham muitas vogais e consoantes comuns. Palavras como AUDIO, OUTRA, ANTES ou PERTO são ótimas para começar, pois revelam muitas letras úteis."
+        }
+      ]
+    },
+    "lengthDirectory": {
+      "title": "Jogos Termo por tamanho de palavra",
+      "description": "Escolha quantas letras quer desafiar hoje e acesse também o buscador para planejar suas jogadas.",
+      "playCta": "Jogar Termo de {length} letras",
+      "searchCta": "Buscador Termo {length} letras"
+    }
+  },
+  "AboutPage": {
+    "meta": {
+      "title": "Sobre o termo-jogo.com | Equipe, dados e contato",
+      "description": "Conheça a história do termo-jogo.com, o processo editorial, a pilha técnica e como falar diretamente com a criadora do projeto.",
+      "keywords": "sobre termo jogo, contato termo, quem criou termo, wordle português"
+    },
+    "hero": {
+      "title": "Sobre o termo-jogo.com",
+      "subtitle": "Projeto independente mantido por uma única desenvolvedora brasileira, com foco em transparência e qualidade dos dados.",
+      "updated": "Atualizado em 18 de fevereiro de 2026"
+    },
+    "author": {
+      "title": "Quem está por trás do projeto?",
+      "paragraphs": [
+        "O termo-jogo.com é criado e mantido por Summer (xiyiaxia), desenvolvedora web e fã de jogos de lógica desde 2021.",
+        "Depois de acompanhar o boom do Wordle, decidi construir uma versão em português com vocabulário documentado, ferramentas de estudo e ritmo de atualização constante."
+      ]
+    },
+    "experience": {
+      "title": "O que guia as decisões editoriais",
+      "items": [
+        "Priorizar exemplos reais e contextualizados em vez de repetir regras genéricas.",
+        "Atualizar o conteúdo com base no feedback de jogadores do Brasil e de outras comunidades lusófonas.",
+        "Respeitar integralmente as diretrizes do Google AdSense, da LGPD e das políticas de privacidade aplicáveis."
+      ]
+    },
+    "tech": {
+      "title": "Pilha técnica e infraestrutura",
+      "stack": [
+        "Next.js 15 + React 19 com renderização híbrida, suporte a PWA e modo offline básico.",
+        "Hospedagem em Cloudflare Workers usando o projeto open-next para otimizar latência.",
+        "Conteúdo e traduções gerenciados via next-intl e versionados em Git, garantindo rastreabilidade."
+      ]
+    },
+    "data": {
+      "title": "De onde vem o dicionário?",
+      "paragraphs": [
+        "O banco de palavras deriva dos dumps públicos do Wiktionary. Os dados passam por scripts próprios que normalizam acentos, removem termos obsoletos e classificam palavras adequadas ao Termo.",
+        "Cada nova geração recebe uma revisão manual para eliminar ruídos regionais extremos e ajustar categorias confidenciais."
+      ],
+      "cta": "Ver relatório público de estatísticas"
+    },
+    "contact": {
+      "title": "Como falar diretamente comigo",
+      "emailLabel": "E-mail principal",
+      "email": "contato@termo-jogo.com",
+      "channels": [
+        "Envie dúvidas ou sugestões por e-mail e receba resposta em até 2 dias úteis.",
+        "Use o formulário de feedback dentro do jogo (ícone de interrogação no canto superior).",
+        "Acompanhe changelogs e notas rápidas no rodapé do site."
+      ]
+    }
+  },
+  "StatsPage": {
+    "meta": {
+      "title": "Estatísticas do Termo | Frequências por tamanho de palavra",
+      "description": "Visualize contagens de palavras, taxa média de vogais e finais comuns para todos os modos do Termo baseados no Wiktionary.",
+      "keywords": "estatísticas termo, dados termo, wiktionary português, frequências de palavras"
+    },
+    "hero": {
+      "title": "Relatório público de dados do Termo",
+      "subtitle": "Números auditáveis das listas de 3 a 11 letras, prontos para pesquisa e cobertura jornalística.",
+      "updated": "Dados atualizados em {date}"
+    },
+    "intro": [
+      "Publicamos esta página para que jogadores, educadores e anunciantes entendam a curadoria por trás do termo-jogo.com.",
+      "Os números refletem tanto a lista de respostas quanto a lista ampliada de palpites aceitos, sempre derivadas do Wiktionary com filtros próprios."
+    ],
+    "table": {
+      "title": "Panorama por tamanho de palavra",
+      "caption": "Contagens baseadas na base oficial de respostas e na lista estendida de palpites aceitos.",
+      "columns": {
+        "length": "Letras",
+        "answers": "Respostas oficiais",
+        "guesses": "Palpites aceitos",
+        "vowels": "Média de vogais",
+        "duplicates": "Taxa de letras repetidas"
+      }
+    },
+    "source": {
+      "title": "Metodologia e fonte",
+      "paragraphs": [
+        "Os dados vêm dos dumps do Wiktionary (pt) coletados trimestralmente. Utilizamos scripts próprios para normalizar acentos, unificar variantes e eliminar entradas ofensivas ou extremamente raras.",
+        "Publicamos apenas métricas agregadas e liberamos uma API gratuita para quem quiser auditar ou usar os números em pesquisas."
+      ],
+      "list": [
+        "Scripts de processamento disponíveis mediante solicitação.",
+        "Processo de revisão manual a cada atualização significativa.",
+        "Histórico de mudanças documentado no changelog interno."
+      ]
+    },
+    "api": {
+      "title": "API e reuso",
+      "description": "Acesse `/api/stats/5` (substitua o número pela quantidade de letras) para obter o JSON completo de cada modo disponível.",
+      "notes": [
+        "Inclui data da última atualização, referência ao Wiktionary e os mesmos campos exibidos nesta página.",
+        "Uso permitido para projetos educativos e jornalísticos com citação do termo-jogo.com."
+      ],
+      "exampleLabel": "Exemplo de requisição"
+    },
+    "cta": {
+      "title": "Pronto para colocar os números em prática?",
+      "description": "Use o relatório para planejar conteúdos, analisar dificuldade por modo ou treinar abertura no Termo.",
+      "playLabel": "Jogar agora",
+      "guideLabel": "Ler guia completo"
+    }
+  },
+  "Header": {
+    "title": "Termo"
+  },
+  "PrivacyPage": {
+    "meta": {
+      "title": "Política de Privacidade | termo-jogo.com",
+      "description": "Saiba como termo-jogo.com trata dados pessoais, cookies, Google AdSense e os direitos dos jogadores do Termo.",
+      "keywords": "política de privacidade termo, privacidade termo-jogo, google adsense termo"
+    },
+    "heading": "Política de Privacidade do termo-jogo.com",
+    "lastUpdated": "Última atualização: 18 de fevereiro de 2026",
+    "intro": "Esta Política de Privacidade explica como o termo-jogo.com coleta, utiliza e protege os dados de jogadores e visitantes que interagem com o nosso jogo Termo e com os serviços adicionais oferecidos no site.",
+    "sections": {
+      "dataCollection": {
+        "title": "Informações que coletamos",
+        "paragraphs": [
+          "Coletamos apenas as informações necessárias para operar o jogo, cumprir obrigações legais e melhorar a experiência dos jogadores. Não pedimos que você crie cadastro obrigatório para jogar.",
+          "Também registramos dados técnicos fornecidos automaticamente pelo seu navegador para manter o site seguro, otimizar desempenho e evitar usos abusivos."
+        ],
+        "items": [
+          "Dados de dispositivo e navegador, como tipo de dispositivo, sistema operacional, idioma e versão do navegador.",
+          "Endereço IP encurtado ou anonimizado, utilizado para detecção de fraude e limitação de tentativas automatizadas.",
+          "Registros de interações dentro do jogo, por exemplo quantidade de partidas, estatísticas e preferências de tema armazenadas localmente.",
+          "Informações agregadas sobre desempenho do site capturadas por ferramentas de análise, sem identificar individualmente os jogadores."
+        ]
+      },
+      "adsense": {
+        "title": "Uso do Google AdSense e publicidade",
+        "paragraphs": [
+          "Exibimos anúncios do Google AdSense para manter o serviço gratuito. O AdSense pode utilizar cookies e identificadores técnicos para personalizar anúncios ou limitar repetições.",
+          "Você pode gerenciar preferências de anúncios visitando o Centro de Privacidade do Google ou desativando a personalização diretamente no banner de consentimento apresentado no site."
+        ],
+        "items": [
+          "O Google, como fornecedor terceirizado, usa cookies para exibir anúncios em nosso site.",
+          "Os cookies DART permitem que o Google apresente anúncios com base nas visitas dos usuários a este e a outros sites da internet.",
+          "Os usuários podem desativar o uso do cookie DART visitando a Política de Privacidade da rede de conteúdo e anúncios do Google."
+        ]
+      },
+      "cookies": {
+        "title": "Cookies e tecnologias semelhantes",
+        "paragraphs": [
+          "Utilizamos cookies essenciais para lembrar escolhas de idioma, registrar estatísticas locais do Termo e manter funcionalidades básicas do site.",
+          "Cookies opcionais de medição e publicidade são carregados somente após o seu consentimento, respeitando a legislação brasileira e europeia aplicável."
+        ],
+        "items": [
+          "Cookies essenciais: necessários para funcionamento do jogo e não podem ser desativados.",
+          "Cookies de desempenho: usados para métricas agregadas de uso e para identificar erros.",
+          "Cookies de publicidade: habilitam a personalização de anúncios do Google AdSense quando autorizados."
+        ]
+      },
+      "thirdParties": {
+        "title": "Compartilhamento de informações",
+        "paragraphs": [
+          "Não vendemos, alugamos ou compartilhamos dados pessoais identificáveis com terceiros para fins próprios.",
+          "Compartilhamos dados apenas com provedores que nos ajudam a operar o site (por exemplo, hospedagem, análise ou anúncios) e somente na medida necessária para prestar o serviço."
+        ]
+      },
+      "rights": {
+        "title": "Seus direitos de privacidade",
+        "paragraphs": [
+          "Você pode exercer direitos previstos na LGPD e em outras legislações aplicáveis. Entre eles estão:"
+        ],
+        "items": [
+          "Confirmar a existência de tratamento de dados.",
+          "Solicitar acesso, correção ou atualização de informações.",
+          "Requerer anonimização, bloqueio ou eliminação de dados desnecessários.",
+          "Solicitar portabilidade quando tecnicamente viável.",
+          "Revogar consentimentos concedidos a qualquer momento.",
+          "Apresentar reclamação à Autoridade Nacional de Proteção de Dados (ANPD) se considerar necessário."
+        ]
+      },
+      "security": {
+        "title": "Segurança e retenção",
+        "paragraphs": [
+          "Aplicamos medidas técnicas e administrativas razoáveis para proteger os dados contra acesso, alteração ou destruição não autorizados.",
+          "Mantemos os registros apenas pelo tempo necessário para cumprir finalidades legítimas, requisitos legais e resolver eventuais disputas."
+        ]
+      },
+      "children": {
+        "title": "Privacidade de crianças",
+        "paragraphs": [
+          "O termo-jogo.com é destinado a usuários com 13 anos ou mais. Não coletamos conscientemente dados de crianças menores de 13 anos; se identificarmos essa coleta, removeremos as informações imediatamente."
+        ]
+      },
+      "changes": {
+        "title": "Atualizações desta política",
+        "paragraphs": [
+          "Podemos atualizar esta Política de Privacidade para refletir alterações legais ou operacionais. A data de última atualização será revista e avisaremos os usuários sobre mudanças relevantes."
+        ]
+      }
+    },
+    "contact": {
+      "title": "Fale conosco",
+      "description": "Se tiver dúvidas, solicitações relacionadas a privacidade ou quiser exercer seus direitos, fale com nossa equipe.",
+      "emailLabel": "E-mail de contato:",
+      "email": "contato@termo-jogo.com"
+    }
+  },
+  "TermsPage": {
+    "meta": {
+      "title": "Termos de Uso | termo-jogo.com",
+      "description": "Leia as regras de uso do termo-jogo.com, responsabilidades dos jogadores e condições do serviço Termo online.",
+      "keywords": "termos de uso termo, condições termo-jogo, regras termo online"
+    },
+    "heading": "Termos de Uso do termo-jogo.com",
+    "lastUpdated": "Última atualização: 18 de fevereiro de 2026",
+    "intro": "Estes Termos de Uso regulam o acesso e a utilização do termo-jogo.com, incluindo o jogo Termo e quaisquer funcionalidades associadas.",
+    "acceptance": "Ao acessar o site, você confirma que leu, entendeu e concorda com os presentes Termos de Uso.",
+    "sections": {
+      "useOfService": {
+        "title": "Serviço oferecido",
+        "paragraphs": [
+          "O termo-jogo.com disponibiliza gratuitamente um jogo online de adivinhação de palavras e conteúdos informativos relacionados a estratégias e novidades do Termo.",
+          "Podemos adicionar, ajustar ou remover recursos do jogo a qualquer momento para manter a qualidade do serviço, sem necessidade de aviso prévio."
+        ]
+      },
+      "userResponsibilities": {
+        "title": "Responsabilidades do usuário",
+        "paragraphs": [
+          "Você é responsável por garantir que seu uso do site esteja em conformidade com a legislação vigente e com estes Termos de Uso.",
+          "Ao interagir com o jogo ou outros recursos, compromete-se a agir de forma respeitosa com a comunidade e com a infraestrutura do serviço."
+        ],
+        "items": [
+          "Não tentar interferir no funcionamento normal do site ou do jogo.",
+          "Não utilizar scripts automatizados que possam prejudicar a estabilidade da plataforma.",
+          "Respeitar direitos autorais e marcas exibidas no site.",
+          "Fornecer informações verdadeiras ao entrar em contato conosco."
+        ]
+      },
+      "accountAndData": {
+        "title": "Estatísticas, dados e contas",
+        "paragraphs": [
+          "O jogo salva estatísticas locais no seu dispositivo para que você acompanhe desempenho e sequências de vitórias.",
+          "Não exigimos criação de conta; caso funcionalidades futuras solicitem cadastro opcional, informaremos claramente as finalidades e condições."
+        ]
+      },
+      "adsense": {
+        "title": "Publicidade e Google AdSense",
+        "paragraphs": [
+          "O site exibe anúncios do Google AdSense, sujeito às políticas do Google Ads e às leis aplicáveis.",
+          "Ao continuar usando o site, você concorda que podemos apresentar anúncios, desde que respeitadas suas escolhas de consentimento."
+        ],
+        "items": [
+          "Os anúncios podem ser personalizados com base em dados de cookies, se você tiver autorizado.",
+          "Você pode alterar suas preferências de anúncios a qualquer momento através do banner de consentimento ou do portal de anúncios do Google.",
+          "O bloqueio completo de anúncios pode afetar a forma como financiamos e mantemos o serviço gratuito."
+        ]
+      },
+      "intellectualProperty": {
+        "title": "Direitos autorais e propriedade intelectual",
+        "paragraphs": [
+          "Todos os textos, layouts, logotipos, recursos gráficos e códigos utilizados no termo-jogo.com são de nossa propriedade ou licenciados.",
+          "É proibido copiar, reproduzir ou redistribuir qualquer parte do site sem autorização por escrito."
+        ]
+      },
+      "acceptableUse": {
+        "title": "Uso aceitável",
+        "paragraphs": [
+          "Ao utilizar o termo-jogo.com, você concorda em não realizar condutas que possam prejudicar outros usuários ou comprometer a segurança do serviço, incluindo:"
+        ],
+        "items": [
+          "Distribuir malware, spam ou conteúdo ofensivo por meio do site.",
+          "Tentar acessar áreas restritas sem autorização.",
+          "Reverter engenharia ou descompilar partes do código.",
+          "Utilizar o site para fins comerciais não autorizados.",
+          "Coletar dados de outros usuários sem consentimento expresso."
+        ]
+      },
+      "disclaimer": {
+        "title": "Isenção de responsabilidade",
+        "paragraphs": [
+          "Embora nos esforcemos para manter o site disponível e livre de erros, não garantimos funcionamento ininterrupto ou livre de falhas.",
+          "O conteúdo informativo é fornecido apenas para fins recreativos e pode ser atualizado ou removido a qualquer momento."
+        ]
+      },
+      "liability": {
+        "title": "Limitação de responsabilidade",
+        "paragraphs": [
+          "Em nenhuma hipótese seremos responsáveis por danos indiretos, lucros cessantes ou quaisquer perdas decorrentes do uso ou da impossibilidade de uso do serviço.",
+          "Nossa responsabilidade total, se houver, limitar-se-á ao montante eventualmente pago pelo usuário para utilizar recursos específicos, o que não ocorre no momento."
+        ]
+      },
+      "thirdPartyLinks": {
+        "title": "Links para terceiros",
+        "paragraphs": [
+          "O site pode conter links para páginas de terceiros. Não somos responsáveis pelo conteúdo ou políticas desses sites externos."
+        ]
+      },
+      "changes": {
+        "title": "Alterações nos termos",
+        "paragraphs": [
+          "Podemos modificar estes Termos de Uso periodicamente. Mudanças significativas serão comunicadas por meio de aviso no site, e o uso contínuo após a atualização constitui aceite das novas condições."
+        ]
+      }
+    },
+    "contact": {
+      "title": "Fale conosco",
+      "description": "Se precisar esclarecer dúvidas sobre estes Termos de Uso ou sobre o funcionamento do site, entre em contato.",
+      "emailLabel": "E-mail de contato:",
+      "email": "contato@termo-jogo.com"
+    }
+  },
+  "Footer": {
+    "copyright": "termo-jogo.com © 2025",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Uso",
+    "guide": "Guia Termo Academy",
+    "wordFinder": "Buscador Termo",
+    "partners": {
+      "spanishWordle": "Wordle em espanhol — LaPalabra-delDia.com",
+      "frenchSutom": "SUTOM em francês — jeuxdelettes.com",
+      "germanWordle": "Wordle em alemão — wortchamp.com"
+    },
+    "nav": {
+      "play5": "Termo 5 letras",
+      "play6": "Termo 6 letras",
+      "play7": "Termo 7 letras",
+      "search": "Buscador Termo",
+      "guide": "Guia Termo",
+      "data": "Dados públicos",
+      "updates": "Atualizações",
+      "about": "Sobre o projeto"
+    }
+  },
+  "GuidePage": {
+    "meta": {
+      "title": "Guia Completo Termo: Estratégias, Dicas e Como Jogar | Termo Jogo",
+      "description": "Guia Termo em português: estratégias, palavras iniciais, termo de hoje, modo infinito e dicas para dominar o wordle brasileiro.",
+      "keywords": "guia termo, como jogar termo, estratégias termo, modo infinito, termo de hoje, wordle português"
+    },
+    "hero": {
+      "title": "Guia completo do Termo em português",
+      "subtitle": "Tudo o que você precisa para melhorar no Termo, no modo infinito e nos desafios personalizados.",
+      "content": "Reunimos palavras iniciais recomendadas, leitura de tabuleiro, interpretação das estatísticas e formas de transformar o Termo em um app (PWA). Salve este guia nos favoritos e volte sempre que precisar revisar.",
+      "cta": "Como jogar o Termo"
+    },
+    "intro": {
+      "title": "Visão geral do Termo",
+      "description": "Termo é o jogo de palavras em português inspirado no Wordle, adaptado ao nosso vocabulário e com preservação de acentos. Neste guia você encontra a base para progredir sem depender de spoilers.",
+      "items": [
+        "Palavras de 5 letras, 6 tentativas e feedback por cores (verde, amarelo e cinza).",
+        "Disponível direto no navegador, sem downloads, com experiência otimizada para desktop e mobile.",
+        "Estatísticas locais mostram vitórias, distribuição de tentativas e sequência diária."
+      ]
+    },
+    "strategies": {
+      "title": "Estratégias e palavras iniciais",
+      "description": "Combine palavras iniciais equilibradas com leitura cuidadosa das pistas. Aproveite o modo infinito para treinar hipóteses e criar repertório de palpite rápido.",
+      "items": [
+        "Palavras iniciais populares: AUDIO, OUTRA, LENTO, RASTE; revezar ajuda a cobrir vogais e consoantes.",
+        "Anote letras descartadas e confirme posições – uma planilha ou bloco de notas aceleram o raciocínio.",
+        "Treine com metas: resolva 3 partidas consecutivas em até 4 tentativas antes de enfrentar o termo de hoje.",
+        "Crie sua própria lista de palavras \"de limpeza\" para testar padrões (ex.: CREIO, PASTO, LINHA)."
+      ]
+    },
+    "modes": {
+      "title": "Modos de jogo e variações",
+      "description": "Cada modo do termo-jogo.com possui objetivos distintos, mas compartilhar estratégias entre eles acelera sua curva de aprendizado.",
+      "items": [
+        "Termo de hoje: palavra única para todos os jogadores, reseta às 00h (horário de Brasília).",
+        "Termo infinito: gera palavras aleatórias ilimitadas – ideal para praticar combinações e testar \"palavras de cobertura\".",
+        "Modo desafio: escolha uma palavra de 5 letras, gere um link e desafie amigos; use para criar campeonatos relâmpago."
+      ]
+    },
+    "challenges": {
+      "title": "Desafios personalizados",
+      "description": "Os desafios são perfeitos para aniversários, happy hours ou grupos de estudo. Vale criar séries temáticas (animais, cidades, gírias).",
+      "items": [
+        "Escolha palavras que todos conhecem – o objetivo é divertir, não frustrar. Pense em vocábulos comuns e sem caracteres especiais raros.",
+        "Compartilhe o link no grupo e defina um prazo; depois, peça para cada participante enviar a grade de resultado.",
+        "Monte rankings semanais ou torneios temáticos. Combine com planilhas ou quadros Kanban para registrar os melhores tempos."
+      ]
+    },
+    "stats": {
+      "title": "Estatísticas e progresso",
+      "description": "Interpretar as estatísticas é fundamental para evoluir. Observe tendências e ajuste sua estratégia conforme a distribuição de tentativas.",
+      "items": [
+        "Distribuição: metas realistas começam com 50% dos jogos resolvidos até a 4ª tentativa.",
+        "Sequência atual/recorde: use como gamificação pessoal. Se a sequência estiver caindo, jogue o modo infinito antes do termo de hoje.",
+        "Porcentagem de vitórias: abaixo de 85% indica que ainda dá para aprimorar leitura de pistas. Revise onde costuma travar.",
+        "Recomeço consciente: após perder, analise a palavra final e identifique quais letras você ignorou ou repetiu em excesso."
+      ],
+      "cta": "Como ver suas estatísticas",
+      "ctaDescription": "Para visualizar suas estatísticas pessoais, retorne à página inicial e clique no ícone de gráfico de barras (📊) no canto superior direito. Lá você encontrará seu histórico completo de jogos, taxa de vitórias, distribuição de tentativas e sequência atual."
+    },
+    "resources": {
+      "title": "Recursos e boas práticas",
+      "description": "Além do jogo em si, tenha sempre por perto fontes confiáveis, dicionários e tutoriais. Eles ajudam a expandir vocabulário e a manter o Termo divertido por mais tempo.",
+      "items": [
+        "Consulte a lista oficial de palavras de 5 letras em português (incluindo acentuadas) e estude combinações improváveis.",
+        "Leia comparativos Termo vs Wordle para entender diferenças de vocabulário, acentos e dificuldade.",
+        "Transforme o site em um aplicativo PWA (adição à tela inicial) para acesso off-line básico e carregamento mais rápido."
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes sobre o guia Termo",
+      "description": "Resumimos as dúvidas mais comuns de quem está dando os primeiros passos ou quer dar o próximo salto no Termo.",
+      "entries": [
+        {
+          "question": "Qual é a melhor palavra para começar o Termo?",
+          "answer": "Não existe uma única palavra perfeita, mas iniciar com AUDIO, OUTRA, LENTO ou RASTE cobre vogais e consoantes frequentes. Alterne entre elas e avalie em quais você acerta com mais rapidez."
+        },
+        {
+          "question": "Como usar as estatísticas a meu favor?",
+          "answer": "Depois de cada partida, veja se travou em determinada posição (3ª ou 4ª tentativa). Ajuste suas palavras de teste e mantenha um histórico simples em planilha ou bloco de notas."
+        },
+        {
+          "question": "O modo infinito interfere no termo de hoje?",
+          "answer": "Não. O modo infinito é independente, mas é excelente para treinar estratégias e validar combinações antes de jogar o desafio diário."
+        },
+        {
+          "question": "Como criar desafios sem revelar a palavra?",
+          "answer": "Use a função \"Criar desafio\" do termo-jogo.com para gerar um link com a palavra secreta. Compartilhe apenas o link e acompanhe se os amigos acertaram pelo ranking informal que vocês combinarem."
+        }
+      ]
+    },
+    "pointers": [
+      {
+        "title": "Termo de hoje",
+        "description": "Acesse a palavra diária oficial e compartilhe seus resultados com emojis.",
+        "href": "/"
+      },
+      {
+        "title": "Termo infinito",
+        "description": "Pratique quantas vezes quiser com palavras em português e refine suas estratégias.",
+        "href": "/#modos-de-jogo"
+      },
+      {
+        "title": "Estatísticas detalhadas",
+        "description": "Use o painel local para analisar vitórias, distribuição e sequência diária.",
+        "href": "/#estatisticas"
+      },
+      {
+        "title": "Instalar como aplicativo",
+        "description": "Veja como adicionar o termo-jogo.com à tela inicial (PWA) e jogar como se fosse um app.",
+        "href": "/guia-termo#recursos"
+      }
+    ],
+    "lengthGuides": {
+      "title": "Guias por tamanho de palavra",
+      "description": "Conteudos aprofundados para cada tamanho, com abertura, leitura de pistas e estrategias especificas.",
+      "items": [
+        {
+          "title": "Guia Termo 3 letras",
+          "description": "Ritmo acelerado, poucas posicoes e decisoes rapidas.",
+          "href": "/guia-termo-3-letras"
+        },
+        {
+          "title": "Guia Termo 4 letras",
+          "description": "Equilibrio entre cobertura e posicao para evitar palavras parecidas.",
+          "href": "/guia-termo-4-letras"
+        },
+        {
+          "title": "Guia Termo 5 letras",
+          "description": "O modo classico com abertura eficiente e ajuste fino.",
+          "href": "/guia-termo-5-letras"
+        },
+        {
+          "title": "Guia Termo 6 letras",
+          "description": "Mais combinacoes, mais disciplina e foco em sufixos.",
+          "href": "/guia-termo-6-letras"
+        },
+        {
+          "title": "Guia Termo 7 letras",
+          "description": "Blocos e padroes para organizar o miolo.",
+          "href": "/guia-termo-7-letras"
+        },
+        {
+          "title": "Guia Termo 8 letras",
+          "description": "Finais comuns e duplicidade em palavras longas.",
+          "href": "/guia-termo-8-letras"
+        },
+        {
+          "title": "Guia Termo 9 letras",
+          "description": "Silabas e miolo para fechar o encaixe.",
+          "href": "/guia-termo-9-letras"
+        },
+        {
+          "title": "Guia Termo 10 letras",
+          "description": "Morfologia, sufixos longos e ajuste do centro.",
+          "href": "/guia-termo-10-letras"
+        },
+        {
+          "title": "Guia Termo 11 letras",
+          "description": "Macroblocos e controle total das pistas.",
+          "href": "/guia-termo-11-letras"
+        }
+      ]
+    }
+  },
+  "WordFinderPage": {
+    "meta": {
+      "title": "Buscador Termo 5 letras – Descubra palavras válidas | termo-jogo.com",
+      "description": "Use o buscador gratuito de palavras Termo 5 letras para descobrir combinações válidas em português. Filtre por letras verdes, amarelas e cinzas e ganhe precisão em cada rodada do jogo Termo.",
+      "keywords": "termo 5 letras, buscador termo, buscador de palavras 5 letras, solver termo, dicas termo, wordle português"
+    },
+    "hero": {
+      "badge": "Ferramenta para Termo",
+      "title": "Buscador Termo 5 letras em português",
+      "description": "Acelere suas partidas do Termo encontrando palavras de 5 letras que respeitam as letras verdes, amarelas e cinzas. Ideal para o Termo diário, modo infinito e desafios personalizados.",
+      "cta": "Jogar Termo agora",
+      "secondary": "Como funciona o buscador?",
+      "highlights": [
+        "Cruze letras confirmadas e posições fixas para resolver o Termo 5 letras com mais segurança.",
+        "Base separada entre respostas oficiais e palavras permitidas para palpites.",
+        "Interface leve que funciona no celular ou desktop sem instalar nada.",
+        "Copie a lista de sugestões em um clique para revisar combinações com seus amigos."
+      ],
+      "stats": [
+        {
+          "label": "Respostas oficiais",
+          "value": "400"
+        },
+        {
+          "label": "Filtros combináveis",
+          "value": "3"
+        },
+        {
+          "label": "Atualização",
+          "value": "Base estável"
+        },
+        {
+          "label": "Copiar lista",
+          "value": "1 clique"
+        }
+      ]
+    },
+    "tool": {
+      "badge": "Buscador de palavras",
+      "title": "Encontre palavras do Termo com 5 letras",
+      "description": "Preencha as posições verdes, selecione letras presentes (amarelas) e elimine letras cinza. A lista abaixo mostra apenas palavras válidas para o Termo.",
+      "positions": {
+        "title": "Posições fixas",
+        "subtitle": "Digite as letras certas nas posições confirmadas. Use letras simples ou acentuadas.",
+        "inputLabel": "Letra na posição {position}"
+      },
+      "include": {
+        "title": "Letras presentes",
+        "description": "Marque aqui as letras que você sabe que aparecem na palavra Termo 5 letras (amarelas).",
+        "helper": "Nenhuma letra marcada ainda."
+      },
+      "exclude": {
+        "title": "Letras ausentes",
+        "description": "Liste as letras cinzas que devem ser descartadas da solução.",
+        "helper": "Nenhuma letra excluída ainda."
+      },
+      "remove": "Remover",
+      "letterBank": {
+        "title": "Alfabeto rápido",
+        "description": "Clique para incluir uma letra. Clique com o botão direito ou mantenha pressionado para excluí-la.",
+        "hint": "Clique para marcar como presente. Use clique direito para excluir.",
+        "instructions": "Dica: no mobile, toque e segure para alternar entre incluir e excluir."
+      },
+      "clear": "Limpar filtros",
+      "results": {
+        "title": "Lista de palavras sugeridas",
+        "description": "Encontramos {count} combinações possíveis com os filtros aplicados.",
+        "badge": "{count} resultados",
+        "empty": "Nenhuma palavra de 5 letras corresponde aos filtros. Ajuste letras incluídas ou excluídas e tente novamente.",
+        "limitNotice": "Exibindo as {max} primeiras palavras de um total de {total}. Refine os filtros para reduzir a lista."
+      },
+      "copy": "Copiar palavras",
+      "copied": "Copiado!"
+    },
+    "sectionsDefaultBadge": "Guia Termo",
+    "sections": [
+      {
+        "id": "como-usar-buscador",
+        "badge": "Tutorial Termo 5 letras",
+        "title": "Como transformar pistas em resultados",
+        "description": "Use o buscador para eliminar possibilidades sem perder tentativas no jogo.",
+        "paragraphs": [
+          "Comece fixando as letras verdes nas posições corretas. Isso reduz o universo de palavras imediatamente.",
+          "Em seguida, marque todas as letras amarelas em \"Letras presentes\". O buscador mantém essas letras em qualquer posição válida.",
+          "Por fim, elimine as letras cinza. Assim você foca apenas nas combinações possíveis e evita desperdício de tentativas."
+        ],
+        "bullets": [
+          "Use o botão \"Copiar palavras\" para comparar opções e escolher a melhor cobertura.",
+          "Se suspeitar de repetição, fixe a letra em duas posições diferentes."
+        ]
+      },
+      {
+        "id": "leitura-da-base",
+        "badge": "Leitura de dados",
+        "title": "Como interpretar os dados do dicionário",
+        "description": "Entenda a base de palavras para filtrar de forma mais inteligente.",
+        "paragraphs": [
+          "A base separa respostas oficiais de palavras aceitas como palpite. Isso explica por que algumas palavras aparecem como sugestão, mas não são a resposta do dia.",
+          "Letras mais frequentes ajudam na abertura, enquanto letras raras podem decidir o final. Combine as duas ideias.",
+          "Finalizacoes comuns (como pares e trios de letras) ajudam a travar o final quando voce ja tem pistas no meio."
+        ],
+        "bullets": [
+          "Use as letras mais frequentes para reduzir opções nas duas primeiras tentativas.",
+          "Guarde letras raras para o fim, quando a lista estiver curta."
+        ]
+      },
+      {
+        "id": "montar-palpites",
+        "badge": "Palpites inteligentes",
+        "title": "Como montar palpites que geram informação",
+        "description": "O buscador ajuda a escolher o palpite certo para cada fase do jogo.",
+        "paragraphs": [
+          "Se ainda houver muitas opções, escolha uma palavra que teste o maior número de letras novas.",
+          "Quando restarem poucas opções, escolha a palavra que confirma posições em vez de cobrir letras novas.",
+          "Use o buscador apenas como filtro: a decisao final deve respeitar as pistas do teclado."
+        ],
+        "bullets": [
+          "Um bom palpite de cobertura pode valer mais do que tentar acertar cedo.",
+          "Palavras com letras repetidas devem ser testadas apenas quando a pista indicar."
+        ]
+      }
+    ],
+    "lengthContent": {
+      "3": {
+        "sections": [
+          {
+            "id": "foco-3",
+            "badge": "Termo 3 letras",
+            "title": "Poucas letras, decisões rápidas",
+            "description": "Com 3 letras, um filtro certo já corta metade das opções.",
+            "paragraphs": [
+              "A combinação de três posições deixa pouca margem para erro, então vale abrir com letras comuns e vogais cedo.",
+              "Quando uma letra aparece amarela, o reposicionamento costuma resolver o jogo rapidamente."
+            ],
+            "bullets": [
+              "Use o filtro de letras ausentes para evitar repetições inúteis.",
+              "Fixe as verdes imediatamente e teste as duas posições restantes."
+            ]
+          },
+          {
+            "id": "ajuste-3",
+            "badge": "Filtros enxutos",
+            "title": "Reduza o ruído sem travar o jogo",
+            "description": "O buscador é mais útil no final, quando restam poucas combinações.",
+            "paragraphs": [
+              "Depois de duas tentativas, use as letras presentes para confirmar o padrão.",
+              "Se sobrarem poucas opções, copie a lista e escolha a palavra que cobre as letras ainda duvidosas."
+            ],
+            "bullets": [
+              "Considere duplicidade apenas quando as pistas indicarem.",
+              "Finalize com um palpite de cobertura se houver mais de duas opções."
+            ]
+          }
+        ],
+        "faq": {
+          "title": "Perguntas frequentes do buscador 3 letras",
+          "description": "Dúvidas rápidas para o modo mais curto.",
+          "entries": [
+            {
+              "question": "Vale a pena usar o buscador desde o início?",
+              "answer": "Use após a segunda tentativa. Antes disso, a lista ainda é grande e o palpite de cobertura resolve melhor."
+            },
+            {
+              "question": "Como lidar com letras repetidas?",
+              "answer": "Só fixe duplicidade quando uma letra aparecer duas vezes nas pistas. Caso contrário, priorize cobertura."
+            },
+            {
+              "question": "O buscador considera acentos?",
+              "answer": "Sim. Você digita sem acento e o buscador retorna palavras compatíveis com e sem acentuação."
+            }
+          ]
+        }
+      },
+      "4": {
+        "sections": [
+          {
+            "id": "equilibrio-4",
+            "badge": "Termo 4 letras",
+            "title": "Equilíbrio entre cobertura e posição",
+            "description": "Uma letra certa já muda várias combinações no modo de 4 letras.",
+            "paragraphs": [
+              "Abra com duas vogais e duas consoantes fortes para mapear o padrão rapidamente.",
+              "As posições contam muito, então confirme verdes antes de testar novas letras."
+            ],
+            "bullets": [
+              "Se aparecer uma amarela, reposicione logo para evitar confusão.",
+              "Evite repetir letras cedo demais."
+            ]
+          },
+          {
+            "id": "desempate-4",
+            "badge": "Desempate",
+            "title": "Evite palavras quase iguais",
+            "description": "O buscador ajuda a separar palavras semelhantes que travam a decisão.",
+            "paragraphs": [
+              "Use letras ausentes para cortar alternativas que parecem certas, mas não fecham a pista.",
+              "Quando restarem duas opções, escolha a que testa letras novas."
+            ],
+            "bullets": [
+              "Prefira palpites de cobertura quando houver mais de três alternativas.",
+              "Considere duplicidade apenas com indício claro."
+            ]
+          }
+        ],
+        "faq": {
+          "title": "Perguntas frequentes do buscador 4 letras",
+          "description": "Como usar o filtro sem perder ritmo.",
+          "entries": [
+            {
+              "question": "O modo de 4 letras é mais fácil?",
+              "answer": "Ele é mais rápido, mas cria muitas palavras parecidas. O buscador ajuda a separar essas opções."
+            },
+            {
+              "question": "Quantas vogais devo testar?",
+              "answer": "Duas vogais diferentes já cobrem grande parte do vocabulário e deixam o resto mais previsível."
+            },
+            {
+              "question": "Posso usar o buscador no celular?",
+              "answer": "Sim. Ele é responsivo e os filtros funcionam bem em telas menores."
+            }
+          ]
+        }
+      },
+      "5": {
+        "sections": [
+          {
+            "id": "classico-5",
+            "badge": "Termo 5 letras",
+            "title": "O formato clássico pede refinamento",
+            "description": "No modo de 5 letras, o buscador serve como apoio, não como atalho.",
+            "paragraphs": [
+              "Use a ferramenta para filtrar opções quando as pistas já definirem a estrutura principal.",
+              "Palpites de cobertura continuam importantes nas duas primeiras tentativas."
+            ],
+            "bullets": [
+              "Fixe verdes e reposicione amarelas antes de testar letras novas.",
+              "Considere duplicidade quando a palavra parecer curta demais."
+            ]
+          },
+          {
+            "id": "refino-5",
+            "badge": "Ajuste final",
+            "title": "Escolha a palavra certa no fim",
+            "description": "Com poucas opções, o buscador ajuda a decidir sem desperdiçar tentativas.",
+            "paragraphs": [
+              "Copie a lista e compare as diferenças entre as palavras restantes.",
+              "Se houver mais de duas opções, use um palpite que teste a maior quantidade de letras novas."
+            ],
+            "bullets": [
+              "Guarde letras raras para o meio do jogo.",
+              "Evite repetir letras já descartadas no teclado."
+            ]
+          }
+        ],
+        "faq": {
+          "title": "Perguntas frequentes do buscador 5 letras",
+          "description": "Dúvidas de quem joga o modo clássico.",
+          "entries": [
+            {
+              "question": "O buscador muda a palavra do dia?",
+              "answer": "Não. Ele apenas filtra palavras válidas, a palavra diária continua a mesma para todos."
+            },
+            {
+              "question": "Quando usar o buscador no modo infinito?",
+              "answer": "Use quando quiser testar padrões ou comparar finais sem pressionar o número de tentativas."
+            },
+            {
+              "question": "O filtro aceita letras sem acento?",
+              "answer": "Sim. Você pode digitar letras simples e o sistema considera acentos automaticamente."
+            }
+          ]
+        }
+      },
+      "6": {
+        "sections": [
+          {
+            "id": "expansao-6",
+            "badge": "Termo 6 letras",
+            "title": "Mais combinações, mais controle",
+            "description": "Com seis letras, a lista cresce rápido e exige filtros bem aplicados.",
+            "paragraphs": [
+              "Abra com 3 vogais e 3 consoantes fortes para mapear o esqueleto da palavra.",
+              "Quando tiver três letras certas, o buscador começa a fazer diferença."
+            ],
+            "bullets": [
+              "Use letras ausentes para eliminar famílias inteiras de palavras.",
+              "Trabalhe posições antes de testar novas letras."
+            ]
+          },
+          {
+            "id": "sufixos-6",
+            "badge": "Sufixos",
+            "title": "Padrões de final aparecem mais",
+            "description": "Sufixos simples ajudam a fechar o fim da palavra com precisão.",
+            "paragraphs": [
+              "Experimente testar finais comuns quando o início já estiver travado.",
+              "Se o padrão parecer curto, considere repetição de vogais."
+            ],
+            "bullets": [
+              "Prefira palpites que confirmem o final quando restarem poucas opções.",
+              "Use o buscador para validar encaixes antes do chute final."
+            ]
+          }
+        ],
+        "faq": {
+          "title": "Perguntas frequentes do buscador 6 letras",
+          "description": "Dicas para lidar com o aumento de combinações.",
+          "entries": [
+            {
+              "question": "Vale testar sufixos cedo?",
+              "answer": "Só depois de ter 2 ou 3 letras certas. Antes disso, um palpite de cobertura é melhor."
+            },
+            {
+              "question": "Repetição de letras é comum?",
+              "answer": "Sim, especialmente de vogais. Considere duplicidade quando o padrão parecer incompleto."
+            },
+            {
+              "question": "O buscador ajuda no modo desafio?",
+              "answer": "Ajuda a validar combinações quando você já tem pistas, evitando erros por pressão."
+            }
+          ]
+        }
+      },
+      "7": {
+        "sections": [
+          {
+            "id": "blocos-7",
+            "badge": "Termo 7 letras",
+            "title": "Pense em blocos",
+            "description": "Em 7 letras, dividir a palavra em início, meio e fim acelera o raciocínio.",
+            "paragraphs": [
+              "Depois da abertura, foque em consolidar um bloco seguro com as letras verdes.",
+              "O buscador ajuda a reorganizar amarelas sem perder tempo."
+            ],
+            "bullets": [
+              "Testar pares de letras comuns no miolo reduz opções rapidamente.",
+              "Evite repetir letras descartadas no teclado."
+            ]
+          },
+          {
+            "id": "miolo-7",
+            "badge": "Miolo difícil",
+            "title": "Use o filtro para destravar o centro",
+            "description": "O meio da palavra costuma esconder letras menos frequentes.",
+            "paragraphs": [
+              "Com o início e o fim definidos, use o filtro para escolher o miolo correto.",
+              "Quando restarem duas opções, prefira a que testa uma letra nova."
+            ],
+            "bullets": [
+              "Duplicidade é mais provável, especialmente em vogais.",
+              "Fixe as verdes antes de inventar novas combinações."
+            ]
+          }
+        ],
+        "faq": {
+          "title": "Perguntas frequentes do buscador 7 letras",
+          "description": "Como organizar pistas em palavras longas.",
+          "entries": [
+            {
+              "question": "Devo focar em prefixo ou sufixo primeiro?",
+              "answer": "Comece pelo bloco mais claro nas pistas. Fixar uma extremidade ajuda a montar o resto."
+            },
+            {
+              "question": "Quando usar jogada de cobertura?",
+              "answer": "Quando ainda houver muitas letras desconhecidas e a lista estiver longa."
+            },
+            {
+              "question": "O buscador ajuda com letras repetidas?",
+              "answer": "Sim. Você pode fixar a letra em duas posições para testar duplicidade."
+            }
+          ]
+        }
+      },
+      "8": {
+        "sections": [
+          {
+            "id": "padroes-8",
+            "badge": "Termo 8 letras",
+            "title": "Padrões longos fazem diferença",
+            "description": "Em 8 letras, os finais comuns ajudam a reduzir o universo de palavras.",
+            "paragraphs": [
+              "Se você já tiver 4 letras certas, use o buscador para validar o final.",
+              "Palavras longas tendem a repetir vogais, então fique atento."
+            ],
+            "bullets": [
+              "Priorize combinar letras amarelas logo depois de descobri-las.",
+              "Teste sufixos quando o início estiver travado."
+            ]
+          },
+          {
+            "id": "raras-8",
+            "badge": "Letras raras",
+            "title": "Não ignore letras menos frequentes",
+            "description": "Elas aparecem mais em palavras longas do que parecem.",
+            "paragraphs": [
+              "Se o padrão parecer óbvio demais, verifique letras raras com o filtro.",
+              "Use a lista de sugestões para comparar palavras semelhantes."
+            ],
+            "bullets": [
+              "Evite repetir letras descartadas apenas por sensação.",
+              "Finalize com a opção que fecha o padrão e cobre a letra rara."
+            ]
+          }
+        ],
+        "faq": {
+          "title": "Perguntas frequentes do buscador 8 letras",
+          "description": "Ajustes finos para palavras extensas.",
+          "entries": [
+            {
+              "question": "Quando vale testar sufixos longos?",
+              "answer": "Assim que você tiver pistas fortes no final. Isso reduz muitas opções de uma vez."
+            },
+            {
+              "question": "Preciso de mais tentativas?",
+              "answer": "Não. São sempre 6, por isso a abertura precisa ser bem informativa."
+            },
+            {
+              "question": "O buscador ajuda a evitar chutes?",
+              "answer": "Sim, porque filtra combinações válidas antes da tentativa final."
+            }
+          ]
+        }
+      },
+      "9": {
+        "sections": [
+          {
+            "id": "silabas-9",
+            "badge": "Termo 9 letras",
+            "title": "Sílabas em primeiro plano",
+            "description": "Pensar em sílabas ajuda a encontrar padrões em palavras de 9 letras.",
+            "paragraphs": [
+              "Abra com alta diversidade de letras e 3 vogais distintas.",
+              "Depois, use o buscador para testar combinações de sílabas."
+            ],
+            "bullets": [
+              "Evite repetir letras no início, cada pista vale muito.",
+              "Confirme o miolo antes de fechar o final."
+            ]
+          },
+          {
+            "id": "miolo-9",
+            "badge": "Miolo e finais",
+            "title": "Trave o fim sem esquecer o centro",
+            "description": "O final costuma ser previsível, mas o miolo exige confirmação.",
+            "paragraphs": [
+              "Quando tiver 4 letras certas, trabalhe o encaixe do centro com o filtro.",
+              "Compare opções com finais iguais para não errar por detalhe."
+            ],
+            "bullets": [
+              "Use a lista de sugestões para encontrar pares consonantais comuns.",
+              "Considere duplicidade quando o padrão parecer curto."
+            ]
+          }
+        ],
+        "faq": {
+          "title": "Perguntas frequentes do buscador 9 letras",
+          "description": "Como usar filtros em palavras muito longas.",
+          "entries": [
+            {
+              "question": "Palavras de 9 letras seguem padrões?",
+              "answer": "Muitas seguem, principalmente no final. Use isso como pista, mas confirme com as letras."
+            },
+            {
+              "question": "O buscador ajuda a decidir o miolo?",
+              "answer": "Sim. Ele mostra combinações possíveis sem perder as letras confirmadas."
+            },
+            {
+              "question": "Devo priorizar vogais ou consoantes?",
+              "answer": "No início, equilíbrio. Depois, foque nas consoantes que faltam para fechar o centro."
+            }
+          ]
+        }
+      },
+      "10": {
+        "sections": [
+          {
+            "id": "morfologia-10",
+            "badge": "Termo 10 letras",
+            "title": "Morfologia ajuda a decidir",
+            "description": "Palavras longas seguem estruturas conhecidas, use isso a seu favor.",
+            "paragraphs": [
+              "Abra com o máximo de letras diferentes e 3 vogais fortes.",
+              "Depois, use o buscador para testar padrões morfológicos."
+            ],
+            "bullets": [
+              "Sufixos longos indicam boa parte da palavra.",
+              "Não ignore letras raras, elas aparecem no meio."
+            ]
+          },
+          {
+            "id": "encaixe-10",
+            "badge": "Encaixe",
+            "title": "Teste o centro com precisão",
+            "description": "O filtro é ideal quando o início e o fim já estão claros.",
+            "paragraphs": [
+              "Ajuste as letras amarelas antes de buscar combinações novas.",
+              "Se houver muitas opções, escolha a que testa mais letras inéditas."
+            ],
+            "bullets": [
+              "Use a lista para comparar palavras com o mesmo sufixo.",
+              "Evite repetir letras descartadas no teclado."
+            ]
+          }
+        ],
+        "faq": {
+          "title": "Perguntas frequentes do buscador 10 letras",
+          "description": "Dúvidas sobre o modo mais longo.",
+          "entries": [
+            {
+              "question": "Quando usar sufixos longos?",
+              "answer": "Assim que houver pistas no final. Eles ajudam a travar metade da palavra."
+            },
+            {
+              "question": "A repetição de letras é comum?",
+              "answer": "É mais frequente do que em tamanhos menores, principalmente de vogais."
+            },
+            {
+              "question": "Vale fazer jogada de cobertura?",
+              "answer": "Sim, se a lista ainda for muito ampla. Uma cobertura bem escolhida salva tentativas."
+            }
+          ]
+        }
+      },
+      "11": {
+        "sections": [
+          {
+            "id": "macro-11",
+            "badge": "Termo 11 letras",
+            "title": "Macroblocos para um desafio máximo",
+            "description": "Em 11 letras, pense em grandes partes antes de decidir o palpite.",
+            "paragraphs": [
+              "Divida a palavra em prefixo, miolo e sufixo. Cada bloco precisa de confirmação.",
+              "O buscador reduz o risco de errar o encaixe final."
+            ],
+            "bullets": [
+              "Reorganize letras amarelas antes de inventar novas.",
+              "Considere duplicidade sempre que o padrão parecer curto."
+            ]
+          },
+          {
+            "id": "controle-11",
+            "badge": "Controle de pistas",
+            "title": "Use filtros para não se perder",
+            "description": "Quanto maior a palavra, maior o peso das posições corretas.",
+            "paragraphs": [
+              "Com metade da palavra definida, o filtro ajuda a escolher a combinação exata.",
+              "Compare opções com finais semelhantes para evitar erros por detalhe."
+            ],
+            "bullets": [
+              "Finalize com a opção que confirma o miolo.",
+              "Evite repetir letras descartadas no teclado."
+            ]
+          }
+        ],
+        "faq": {
+          "title": "Perguntas frequentes do buscador 11 letras",
+          "description": "Dicas finais para o maior modo do Termo.",
+          "entries": [
+            {
+              "question": "Quando vale usar o buscador?",
+              "answer": "Quando você já tiver metade da palavra definida e precisar escolher o encaixe correto."
+            },
+            {
+              "question": "Duplicidade de letras é regra?",
+              "answer": "Não é regra, mas é bem mais provável. Considere isso quando faltar uma letra."
+            },
+            {
+              "question": "Posso usar o buscador no celular?",
+              "answer": "Sim, ele é responsivo e funciona bem em telas pequenas."
+            }
+          ]
+        }
+      }
+    },
+    "faq": {
+      "title": "Perguntas frequentes sobre o buscador Termo",
+      "description": "Dúvidas mais comuns de quem usa o buscador de palavras Termo 5 letras.",
+      "entries": [
+        {
+          "question": "O buscador funciona com o Termo de hoje?",
+          "answer": "Sim. Ele usa a mesma base de palavras permitidas e ajuda a filtrar combinações com base nas pistas da partida."
+        },
+        {
+          "question": "Como lido com letras repetidas?",
+          "answer": "Repita a letra em duas posicoes diferentes ou mantenha-a nas letras presentes. Assim o filtro considera duplicidade."
+        },
+        {
+          "question": "Posso usar o buscador no celular?",
+          "answer": "Pode sim. A ferramenta é responsiva, funciona melhor após o primeiro carregamento e aceita toques longos para alternar entre incluir e excluir letras."
+        },
+        {
+          "question": "A base de palavras muda com frequência?",
+          "answer": "Não. A base é estável e só muda quando publicamos uma revisão do dicionário."
+        }
+      ]
+    }
+  },
+  "ExtensionPage": {
+    "backToHome": "Voltar para o início"
+  },
+  "LengthGuidePage": {
+    "meta": {
+      "3": {
+        "title": "Guia Termo 3 letras | Ritmo e precisão",
+        "description": "Aprenda a abrir bem e resolver o Termo 3 letras com decisões rápidas e leitura eficiente das pistas.",
+        "keywords": "guia termo 3 letras, termo 3 letras, dicas termo, wordle portugues"
+      },
+      "4": {
+        "title": "Guia Termo 4 letras | Cobertura e posição",
+        "description": "Estratégias para o Termo 4 letras: abertura equilibrada, reposicionamento e fechamento seguro.",
+        "keywords": "guia termo 4 letras, termo 4 letras, estrategias termo, wordle portugues"
+      },
+      "5": {
+        "title": "Guia Termo 5 letras | Aberturas e estratégias",
+        "description": "Aprenda a escolher palavras iniciais, ler o tabuleiro e fechar o Termo de 5 letras com estratégias práticas.",
+        "keywords": "guia termo 5 letras, palavras iniciais termo, estrategias termo, wordle portugues"
+      },
+      "6": {
+        "title": "Guia Termo 6 letras | Controle de combinações",
+        "description": "Guia completo do Termo 6 letras com foco em sufixos, repetição e organização das pistas.",
+        "keywords": "guia termo 6 letras, termo 6 letras, dicas termo, wordle portugues"
+      },
+      "7": {
+        "title": "Guia Termo 7 letras | Blocos e padrões",
+        "description": "Aprenda a dividir a palavra em blocos e vencer o Termo de 7 letras com mais consistência.",
+        "keywords": "guia termo 7 letras, termo 7 letras, estrategias termo, wordle portugues"
+      },
+      "8": {
+        "title": "Guia Termo 8 letras | Finais e repetição",
+        "description": "Estratégias para o Termo 8 letras: leitura de finais comuns, duplicidade e encaixe.",
+        "keywords": "guia termo 8 letras, termo 8 letras, dicas termo, wordle portugues"
+      },
+      "9": {
+        "title": "Guia Termo 9 letras | Sílabas e miolo",
+        "description": "Domine o Termo 9 letras com foco em sílabas, miolo e confirmação de padrões.",
+        "keywords": "guia termo 9 letras, termo 9 letras, estrategias termo, wordle portugues"
+      },
+      "10": {
+        "title": "Guia Termo 10 letras | Morfologia e encaixe",
+        "description": "Táticas para o Termo 10 letras: padrões morfológicos, sufixos longos e ajuste do centro.",
+        "keywords": "guia termo 10 letras, termo 10 letras, dicas termo, wordle portugues"
+      },
+      "11": {
+        "title": "Guia Termo 11 letras | Desafio máximo",
+        "description": "Guia do Termo 11 letras com estratégia por macroblocos e fechamento seguro.",
+        "keywords": "guia termo 11 letras, termo 11 letras, estrategias termo, wordle portugues"
+      }
+    },
+    "lengths": {
+      "3": {
+        "badge": "Guia 3 letras",
+        "title": "Guia do Termo de 3 letras",
+        "subtitle": "Ritmo acelerado, poucas posições e pistas que mudam o jogo rapidamente.",
+        "intro": "O modo de 3 letras é o mais rápido do Termo. Cada cor pesa muito, então o segredo é cobrir letras comuns cedo e reposicionar imediatamente.",
+        "opening": {
+          "title": "Aberturas de 3 letras com alta cobertura",
+          "subtitle": "Use duas palavras para cobrir as cinco vogais e ainda testar consoantes comuns.",
+          "sets": [
+            {
+              "label": "Set A: vogais completas",
+              "words": [
+                {
+                  "word": "SAI",
+                  "meaning": "vai embora"
+                },
+                {
+                  "word": "DOE",
+                  "meaning": "machuca, sente dor"
+                },
+                {
+                  "word": "LUZ",
+                  "meaning": "claridade"
+                }
+              ]
+            },
+            {
+              "label": "Set B: palavras simples",
+              "words": [
+                {
+                  "word": "MAR",
+                  "meaning": "oceano"
+                },
+                {
+                  "word": "SOL",
+                  "meaning": "estrela do dia"
+                },
+                {
+                  "word": "RUA",
+                  "meaning": "rua"
+                }
+              ]
+            },
+            {
+              "label": "Set C: consoantes fortes",
+              "words": [
+                {
+                  "word": "BAR",
+                  "meaning": "lugar para beber"
+                },
+                {
+                  "word": "RIM",
+                  "meaning": "orgao do corpo"
+                },
+                {
+                  "word": "DOM",
+                  "meaning": "talento"
+                }
+              ]
+            },
+            {
+              "label": "Set D: secos e diretos",
+              "words": [
+                {
+                  "word": "PAZ",
+                  "meaning": "tranquilidade"
+                },
+                {
+                  "word": "BEM",
+                  "meaning": "coisa boa"
+                },
+                {
+                  "word": "FIM",
+                  "meaning": "final"
+                }
+              ]
+            }
+          ],
+          "note": "No modo de 3 letras, duas tentativas bem escolhidas costumam resolver metade do jogo.",
+          "usage": "Uso sugerido: estavel = Set A/B (primeira rodada), ataque = Set C (testa consoantes fortes), conservador = Set D (fecha o padrao)."
+        },
+        "linkLabel": "Guia Termo 3 letras",
+        "toc": [
+          {
+            "id": "abertura",
+            "label": "Abertura ideal"
+          },
+          {
+            "id": "leitura",
+            "label": "Leitura do tabuleiro"
+          },
+          {
+            "id": "fases",
+            "label": "Jogo por fases"
+          },
+          {
+            "id": "erros",
+            "label": "Erros comuns"
+          },
+          {
+            "id": "apoio",
+            "label": "Ferramentas de apoio"
+          },
+          {
+            "id": "faq",
+            "label": "FAQ"
+          }
+        ],
+        "sections": [
+          {
+            "id": "abertura",
+            "eyebrow": "Abertura",
+            "title": "Abertura ideal: duas vogais primeiro",
+            "paragraphs": [
+              "Com 3 letras, uma boa abertura precisa revelar o padrão rápido. Prefira duas vogais diferentes e uma consoante frequente.",
+              "A primeira palavra define metade do jogo, então evite repetir letras logo de cara."
+            ],
+            "bullets": [
+              "Teste A, E ou O no início para mapear o esqueleto.",
+              "Se vier tudo cinza, troque o conjunto por completo.",
+              "Evite repetir letras sem pista clara."
+            ],
+            "callout": {
+              "title": "Objetivo real",
+              "text": "No modo de 3 letras, a abertura serve para revelar padrão, não para acertar cedo."
+            }
+          },
+          {
+            "id": "leitura",
+            "eyebrow": "Leitura de pistas",
+            "title": "Cada cor tem impacto imediato",
+            "paragraphs": [
+              "Um verde fixa posição quase definitiva. Um amarelo costuma decidir o centro e precisa ser reposicionado logo.",
+              "Letras com acento contam como a mesma letra sem acento, então ajuste seu palpite sem medo."
+            ],
+            "bullets": [
+              "Reposicione amarelas imediatamente.",
+              "Use o teclado para eliminar letras cinza.",
+              "Considere duplicidade apenas com indício."
+            ]
+          },
+          {
+            "id": "fases",
+            "eyebrow": "Estratégia por fase",
+            "title": "Fase curta, decisões rápidas",
+            "paragraphs": [
+              "A primeira tentativa precisa abrir o máximo de informação possível.",
+              "Na segunda e terceira, o foco é reposicionar amarelas e travar verdes.",
+              "As últimas rodadas servem para decidir entre poucas opções sem chute cego."
+            ],
+            "bullets": [
+              "Se a segunda tentativa falhar, mude o conjunto inteiro.",
+              "Use um palpite de cobertura antes do chute final.",
+              "Finalize com a opção que respeita todas as posições."
+            ]
+          },
+          {
+            "id": "erros",
+            "eyebrow": "Erros comuns",
+            "title": "O que mais atrapalha no 3 letras",
+            "paragraphs": [
+              "Repetir letras cedo reduz a cobertura e atrasa a leitura do padrão.",
+              "Chutar antes de reposicionar a amarela costuma desperdiçar a melhor pista."
+            ],
+            "bullets": [
+              "Não repita letras sem motivo.",
+              "Evite chutes com letras já descartadas.",
+              "Troque a abertura se a primeira foi fraca."
+            ]
+          },
+          {
+            "id": "apoio",
+            "eyebrow": "Ferramentas",
+            "title": "Use o buscador só no final",
+            "paragraphs": [
+              "No modo de 3 letras, o buscador só compensa quando restarem 2 ou 3 combinações.",
+              "O modo infinito é ideal para ganhar rapidez e reconhecer padrões curtos."
+            ],
+            "bullets": [
+              "Entre no buscador após 2 tentativas.",
+              "Copie a lista e compare opções finais.",
+              "Treine abertura no infinito antes do diário."
+            ]
+          }
+        ],
+        "checklist": {
+          "title": "Checklist rápido do Termo 3 letras",
+          "items": [
+            "Abertura com duas vogais distintas",
+            "Reposicionamento imediato das amarelas",
+            "Eliminação total das cinzas",
+            "Chute final só com padrão claro"
+          ]
+        },
+        "faq": {
+          "title": "Perguntas frequentes do guia 3 letras",
+          "description": "Respostas curtas para o modo mais rápido.",
+          "entries": [
+            {
+              "question": "Tenho menos tentativas no 3 letras?",
+              "answer": "Não. Ainda são 6 tentativas, mas o jogo costuma acabar antes."
+            },
+            {
+              "question": "Vale repetir letras cedo?",
+              "answer": "Quase nunca. Só repita se a pista indicar duplicidade."
+            },
+            {
+              "question": "O buscador ajuda mesmo?",
+              "answer": "Sim, mas apenas no final, quando restarem poucas opções."
+            },
+            {
+              "question": "O modo infinito muda a estratégia?",
+              "answer": "A lógica é a mesma, mas o ritmo ajuda a treinar velocidade."
+            },
+            {
+              "question": "Posso abrir com letras repetidas?",
+              "answer": "Evite. Repetição corta informação e atrasa o reconhecimento do padrão."
+            }
+          ]
+        },
+        "cta": {
+          "title": "Pronto para jogar o Termo 3 letras?",
+          "description": "Aplique o plano no desafio diário ou pratique no modo infinito.",
+          "primaryLabel": "Jogar Termo 3 letras",
+          "secondaryLabel": "Abrir buscador 3 letras"
+        }
+      },
+      "4": {
+        "badge": "Guia 4 letras",
+        "title": "Guia do Termo de 4 letras",
+        "subtitle": "Equilíbrio entre cobertura e posição para evitar palavras parecidas.",
+        "intro": "O modo de 4 letras é rápido, mas gera muitas combinações semelhantes. A estratégia certa é usar cobertura no início e fixar posições sem pressa.",
+        "opening": {
+          "title": "Aberturas de 4 letras para cortar ruído",
+          "subtitle": "Combine duas ou três palavras curtas para cobrir vogais e consoantes fortes.",
+          "sets": [
+            {
+              "label": "Set A: cobertura balanceada",
+              "words": [
+                {
+                  "word": "PODE",
+                  "meaning": "tem permissao"
+                },
+                {
+                  "word": "LAGO",
+                  "meaning": "corpo de agua"
+                },
+                {
+                  "word": "TUBO",
+                  "meaning": "tubo"
+                }
+              ]
+            },
+            {
+              "label": "Set B: vocabulário comum",
+              "words": [
+                {
+                  "word": "CASA",
+                  "meaning": "lugar de morar"
+                },
+                {
+                  "word": "MEIO",
+                  "meaning": "metade, meio"
+                },
+                {
+                  "word": "RATO",
+                  "meaning": "rato"
+                }
+              ]
+            },
+            {
+              "label": "Set C: consoantes marcantes",
+              "words": [
+                {
+                  "word": "TRAZ",
+                  "meaning": "leva, entrega"
+                },
+                {
+                  "word": "FUGA",
+                  "meaning": "escape"
+                },
+                {
+                  "word": "PESO",
+                  "meaning": "peso"
+                }
+              ]
+            },
+            {
+              "label": "Set D: finais variados",
+              "words": [
+                {
+                  "word": "VIDA",
+                  "meaning": "vida"
+                },
+                {
+                  "word": "SELO",
+                  "meaning": "selo"
+                },
+                {
+                  "word": "AMOR",
+                  "meaning": "sentimento de amar"
+                }
+              ]
+            }
+          ],
+          "note": "Em 4 letras, posições importam tanto quanto letras. Troque a abertura se vier pouca informação.",
+          "usage": "Uso sugerido: estavel = Set A (abertura balanceada), ataque = Set C (forca consoantes), conservador = Set D (confirma posicoes)."
+        },
+        "linkLabel": "Guia Termo 4 letras",
+        "toc": [
+          {
+            "id": "abertura",
+            "label": "Abertura ideal"
+          },
+          {
+            "id": "leitura",
+            "label": "Leitura do tabuleiro"
+          },
+          {
+            "id": "fases",
+            "label": "Jogo por fases"
+          },
+          {
+            "id": "erros",
+            "label": "Erros comuns"
+          },
+          {
+            "id": "apoio",
+            "label": "Ferramentas de apoio"
+          },
+          {
+            "id": "faq",
+            "label": "FAQ"
+          }
+        ],
+        "sections": [
+          {
+            "id": "abertura",
+            "eyebrow": "Abertura",
+            "title": "Abertura ideal: 2 vogais + 2 consoantes",
+            "paragraphs": [
+              "Em 4 letras, a abertura precisa equilibrar cobertura e posição. Duas vogais diferentes e duas consoantes fortes funcionam bem.",
+              "Evite repetir letras na primeira jogada para maximizar informação."
+            ],
+            "bullets": [
+              "Inclua R, S, T ou N para aumentar cobertura.",
+              "Se aparecer um verde, fixe a posição imediatamente.",
+              "Troque o conjunto se vier tudo cinza."
+            ]
+          },
+          {
+            "id": "leitura",
+            "eyebrow": "Leitura de pistas",
+            "title": "Pistas rápidas e posições decisivas",
+            "paragraphs": [
+              "As posições são o que mais diferencia palavras de 4 letras. Um verde costuma eliminar muitas opções.",
+              "Amarelas precisam ser reposicionadas antes de testar novas letras."
+            ],
+            "bullets": [
+              "Reposicione amarelas no palpite seguinte.",
+              "Não ignore letras cinza já descartadas.",
+              "Considere duplicidade só com indício."
+            ]
+          },
+          {
+            "id": "fases",
+            "eyebrow": "Estratégia por fase",
+            "title": "Controle o jogo em duas etapas",
+            "paragraphs": [
+              "As duas primeiras tentativas devem priorizar cobertura total de letras comuns.",
+              "Depois disso, o jogo vira um desempate de posições e combinações parecidas."
+            ],
+            "bullets": [
+              "Se restarem duas opções, use uma palavra que teste letras diferentes.",
+              "Com 2 letras certas, teste posições restantes.",
+              "Evite chutes cedo demais."
+            ]
+          },
+          {
+            "id": "erros",
+            "eyebrow": "Erros comuns",
+            "title": "Armadilhas típicas do 4 letras",
+            "paragraphs": [
+              "O erro clássico é insistir no mesmo padrão sem testar letras novas.",
+              "Repetir letras sem sinal de duplicidade corta informação cedo demais."
+            ],
+            "bullets": [
+              "Não force palavras parecidas sem confirmação.",
+              "Evite repetir letras na segunda tentativa.",
+              "Troque a estratégia se o jogo travar."
+            ]
+          },
+          {
+            "id": "apoio",
+            "eyebrow": "Ferramentas",
+            "title": "Buscador para desempate",
+            "paragraphs": [
+              "O buscador funciona melhor quando restam palavras quase iguais.",
+              "O modo infinito ajuda a testar aberturas sem pressão."
+            ],
+            "bullets": [
+              "Entre no buscador apenas na fase final.",
+              "Compare as opções por diferença de posição.",
+              "Treine padrões no infinito antes do diário."
+            ]
+          }
+        ],
+        "checklist": {
+          "title": "Checklist rápido do Termo 4 letras",
+          "items": [
+            "Abertura com duas vogais diferentes",
+            "Fixação imediata das verdes",
+            "Reposicionamento das amarelas",
+            "Desempate com letras novas"
+          ]
+        },
+        "faq": {
+          "title": "Perguntas frequentes do guia 4 letras",
+          "description": "Dúvidas sobre o modo curto e estratégico.",
+          "entries": [
+            {
+              "question": "O modo 4 letras é mais fácil?",
+              "answer": "Ele é mais rápido, mas há muitas palavras parecidas. A posição das letras decide."
+            },
+            {
+              "question": "Quantas vogais devo testar?",
+              "answer": "Duas vogais diferentes já cobrem boa parte do vocabulário."
+            },
+            {
+              "question": "Quando usar o buscador?",
+              "answer": "Use quando restarem poucas opções muito semelhantes."
+            },
+            {
+              "question": "O modo infinito ajuda?",
+              "answer": "Sim. Ele permite treinar padrões sem pressão."
+            },
+            {
+              "question": "Vale usar duas vogais iguais na abertura?",
+              "answer": "Nao. Duas vogais iguais reduzem cobertura e atrasam a leitura das pistas."
+            }
+          ]
+        },
+        "cta": {
+          "title": "Pronto para jogar o Termo 4 letras?",
+          "description": "Teste a estratégia no desafio diário ou pratique no infinito.",
+          "primaryLabel": "Jogar Termo 4 letras",
+          "secondaryLabel": "Abrir buscador 4 letras"
+        }
+      },
+      "5": {
+        "badge": "Guia 5 letras",
+        "title": "Guia do Termo de 5 letras",
+        "subtitle": "Estratégias objetivas para o modo clássico: abertura eficiente, leitura de pistas e decisão final sem chute cego.",
+        "intro": "O Termo de 5 letras é o formato mais jogado e também o mais equilibrado: informação suficiente para planejar, mas poucas tentativas para errar. Abaixo você encontra um roteiro prático para jogar melhor todos os dias.",
+        "opening": {
+          "title": "Aberturas de 5 letras com vogais completas",
+          "subtitle": "Duas palavras bem escolhidas cobrem as cinco vogais e consoantes frequentes.",
+          "sets": [
+            {
+              "label": "Set A: cobertura total de vogais",
+              "words": [
+                {
+                  "word": "AUDIO",
+                  "meaning": "som gravado"
+                },
+                {
+                  "word": "PERTO",
+                  "meaning": "proximo"
+                }
+              ]
+            },
+            {
+              "label": "Set B: ritmo e consistência",
+              "words": [
+                {
+                  "word": "OUTRA",
+                  "meaning": "outra"
+                },
+                {
+                  "word": "LENTO",
+                  "meaning": "devagar"
+                }
+              ]
+            },
+            {
+              "label": "Set C: consoantes fortes",
+              "words": [
+                {
+                  "word": "PLENO",
+                  "meaning": "completo"
+                },
+                {
+                  "word": "FIRMA",
+                  "meaning": "empresa"
+                }
+              ]
+            },
+            {
+              "label": "Set D: variedade de finais",
+              "words": [
+                {
+                  "word": "CORTE",
+                  "meaning": "corte, recorte"
+                },
+                {
+                  "word": "SINAL",
+                  "meaning": "sinal"
+                },
+                {
+                  "word": "PUXAR",
+                  "meaning": "puxar"
+                }
+              ]
+            }
+          ],
+          "note": "Se a primeira palavra vier quase toda cinza, troque o conjunto completo na segunda tentativa.",
+          "usage": "Uso sugerido: estavel = Set A/B (cobertura de vogais), ataque = Set C (consoantes fortes), conservador = Set D (ajuste final)."
+        },
+        "linkLabel": "Guia Termo 5 letras",
+        "toc": [
+          {
+            "id": "abertura",
+            "label": "Abertura ideal"
+          },
+          {
+            "id": "leitura",
+            "label": "Leitura do tabuleiro"
+          },
+          {
+            "id": "fases",
+            "label": "Jogo por fases"
+          },
+          {
+            "id": "erros",
+            "label": "Erros comuns"
+          },
+          {
+            "id": "apoio",
+            "label": "Ferramentas de apoio"
+          },
+          {
+            "id": "faq",
+            "label": "FAQ"
+          }
+        ],
+        "sections": [
+          {
+            "id": "abertura",
+            "eyebrow": "Abertura",
+            "title": "Abertura ideal: cobertura primeiro",
+            "paragraphs": [
+              "Em 5 letras, a melhor abertura é a que revela o máximo de informação sem repetir letras. Prefira palavras com vogais variadas e consoantes frequentes.",
+              "Se possível, evite repetir letras no primeiro palpite. Repetição reduz a cobertura e atrasa o mapeamento da palavra."
+            ],
+            "bullets": [
+              "AUDIO, OUTRA, ANTES e PERTO são aberturas sólidas.",
+              "Combine 3 vogais diferentes e 2 consoantes comuns.",
+              "Se a primeira palavra vier quase toda cinza, troque o conjunto por completo."
+            ],
+            "callout": {
+              "title": "Regra simples",
+              "text": "Nos dois primeiros palpites, o objetivo é descobrir letras e posições — não acertar cedo."
+            }
+          },
+          {
+            "id": "leitura",
+            "eyebrow": "Leitura de pistas",
+            "title": "Como interpretar o tabuleiro sem se confundir",
+            "paragraphs": [
+              "Verde fixa posição; amarelo confirma a letra, mas exige reposicionamento. Cinza elimina completamente.",
+              "No Termo, letras com acento contam como a mesma letra sem acento, então considere isso na leitura das pistas."
+            ],
+            "bullets": [
+              "Se aparecer uma amarela, reposicione antes de testar letras novas.",
+              "Considere duplicidade quando o padrão parecer curto demais para as pistas.",
+              "Use o teclado colorido para evitar repetir letras descartadas."
+            ]
+          },
+          {
+            "id": "fases",
+            "eyebrow": "Estratégia por fase",
+            "title": "Organize o jogo em três fases",
+            "paragraphs": [
+              "Nas duas primeiras tentativas, a missão é mapear vogais e consoantes sem repetir letras.",
+              "No meio do jogo, foque em fixar posições e ajustar a ordem das amarelas.",
+              "As últimas tentativas servem para decidir o encaixe final com segurança."
+            ],
+            "bullets": [
+              "Com 2 letras certas, teste as outras 3 posições no palpite seguinte.",
+              "Se restarem muitas opções, use um palpite de cobertura antes do chute.",
+              "Quando houver poucas opções, escolha a palavra que confirma posições."
+            ]
+          },
+          {
+            "id": "erros",
+            "eyebrow": "Erros comuns",
+            "title": "O que mais atrapalha no modo de 5 letras",
+            "paragraphs": [
+              "O erro mais comum é se apegar cedo a um padrão e deixar de testar letras novas.",
+              "Chutar palavras com letras descartadas reduz drasticamente a chance de acerto."
+            ],
+            "bullets": [
+              "Não repita letras sem indício de duplicidade.",
+              "Evite chutar finais conhecidos antes de confirmar o meio.",
+              "Troque a abertura se as duas primeiras tentativas forem fracas."
+            ]
+          },
+          {
+            "id": "apoio",
+            "eyebrow": "Ferramentas",
+            "title": "Use o modo infinito e o buscador a seu favor",
+            "paragraphs": [
+              "O modo infinito é o melhor lugar para testar novas aberturas sem pressão.",
+              "O buscador ajuda quando o padrão já está quase fechado e você precisa decidir."
+            ],
+            "bullets": [
+              "Jogue 2 ou 3 rodadas no infinito antes do termo diário.",
+              "Use o buscador quando restarem poucas combinações.",
+              "Copie a lista de sugestões e compare diferenças entre palavras."
+            ]
+          }
+        ],
+        "checklist": {
+          "title": "Checklist rápido do Termo 5 letras",
+          "items": [
+            "Abertura sem repetição e com vogais variadas",
+            "Reposicionamento imediato das amarelas",
+            "Confirmação das verdes antes de novas letras",
+            "Checagem de duplicidade apenas com pista clara"
+          ]
+        },
+        "faq": {
+          "title": "Perguntas frequentes do guia 5 letras",
+          "description": "Respostas objetivas para dúvidas do modo clássico.",
+          "entries": [
+            {
+              "question": "Qual a melhor palavra inicial?",
+              "answer": "Não existe uma única melhor, mas palavras com 3 vogais e consoantes comuns costumam gerar mais informação."
+            },
+            {
+              "question": "Devo usar o buscador sempre?",
+              "answer": "Não. Use apenas quando o padrão já estiver claro e restarem poucas opções."
+            },
+            {
+              "question": "A duplicidade de letras é comum?",
+              "answer": "Sim, aparece com frequência em 5 letras. Considere duplicidade quando faltar uma letra para fechar a palavra."
+            },
+            {
+              "question": "O modo infinito muda a estratégia?",
+              "answer": "A lógica é a mesma, mas no infinito você pode treinar aberturas sem pressão."
+            },
+            {
+              "question": "Quantas vogais devo cobrir no inicio?",
+              "answer": "Idealmente tres vogais diferentes nas duas primeiras tentativas."
+            }
+          ]
+        },
+        "cta": {
+          "title": "Pronto para jogar o Termo 5 letras?",
+          "description": "Coloque o plano em prática no desafio diário ou teste novas aberturas no modo infinito.",
+          "primaryLabel": "Jogar Termo 5 letras",
+          "secondaryLabel": "Abrir buscador 5 letras"
+        }
+      },
+      "6": {
+        "badge": "Guia 6 letras",
+        "title": "Guia do Termo de 6 letras",
+        "subtitle": "Mais combinações pedem disciplina e atenção ao final da palavra.",
+        "intro": "No modo de 6 letras, o número de combinações cresce rápido. A estratégia certa é abrir bem, fixar posições e testar sufixos quando houver pistas.",
+        "opening": {
+          "title": "Aberturas de 6 letras para mapear o tabuleiro",
+          "subtitle": "Use três palavras para cobrir vogais e consoantes comuns sem repetir letras.",
+          "sets": [
+            {
+              "label": "Set A: cobertura ampla",
+              "words": [
+                {
+                  "word": "ESCOLA",
+                  "meaning": "lugar de estudar"
+                },
+                {
+                  "word": "MUITOS",
+                  "meaning": "muitos"
+                },
+                {
+                  "word": "PARQUE",
+                  "meaning": "area de lazer"
+                }
+              ]
+            },
+            {
+              "label": "Set B: alternancia de letras",
+              "words": [
+                {
+                  "word": "VIAJAR",
+                  "meaning": "fazer viagem"
+                },
+                {
+                  "word": "RITMOS",
+                  "meaning": "ritmos"
+                },
+                {
+                  "word": "LEITOS",
+                  "meaning": "camas, leitos"
+                }
+              ]
+            },
+            {
+              "label": "Set C: consoantes em destaque",
+              "words": [
+                {
+                  "word": "PRATOS",
+                  "meaning": "pratos"
+                },
+                {
+                  "word": "FESTAS",
+                  "meaning": "festas"
+                },
+                {
+                  "word": "BRINCO",
+                  "meaning": "objeto de orelha"
+                }
+              ]
+            },
+            {
+              "label": "Set D: ritmo constante",
+              "words": [
+                {
+                  "word": "CANTAR",
+                  "meaning": "fazer musica com a voz"
+                },
+                {
+                  "word": "MEDICO",
+                  "meaning": "profissional de saude"
+                },
+                {
+                  "word": "PONTOS",
+                  "meaning": "pontos"
+                }
+              ]
+            }
+          ],
+          "note": "Em 6 letras, o ganho vem de cobertura e de um bom terceiro palpite de encaixe.",
+          "usage": "Uso sugerido: estavel = Set A (mapa inicial), ataque = Set C (testa consoantes raras), conservador = Set D (travamento do final)."
+        },
+        "linkLabel": "Guia Termo 6 letras",
+        "toc": [
+          {
+            "id": "abertura",
+            "label": "Abertura ideal"
+          },
+          {
+            "id": "leitura",
+            "label": "Leitura do tabuleiro"
+          },
+          {
+            "id": "fases",
+            "label": "Jogo por fases"
+          },
+          {
+            "id": "erros",
+            "label": "Erros comuns"
+          },
+          {
+            "id": "apoio",
+            "label": "Ferramentas de apoio"
+          },
+          {
+            "id": "faq",
+            "label": "FAQ"
+          }
+        ],
+        "sections": [
+          {
+            "id": "abertura",
+            "eyebrow": "Abertura",
+            "title": "Abertura ideal: 3 vogais e 3 consoantes",
+            "paragraphs": [
+              "O objetivo inicial é mapear o máximo de letras. Use 3 vogais e 3 consoantes frequentes.",
+              "Evite repetição na abertura para não perder cobertura."
+            ],
+            "bullets": [
+              "Inclua R, S, T, N ou L na primeira palavra.",
+              "Se a primeira tentativa vier fraca, troque o conjunto.",
+              "Guarde letras raras para o meio."
+            ]
+          },
+          {
+            "id": "leitura",
+            "eyebrow": "Leitura de pistas",
+            "title": "O final começa a pesar",
+            "paragraphs": [
+              "Em 6 letras, padrões de sufixo ajudam a fechar o fim da palavra.",
+              "Amarelas precisam ser reorganizadas antes de testar novas letras."
+            ],
+            "bullets": [
+              "Teste sufixos simples quando tiver 3 letras certas.",
+              "Considere repetição de vogais.",
+              "Use o teclado para descartar letras cinza."
+            ]
+          },
+          {
+            "id": "fases",
+            "eyebrow": "Estratégia por fase",
+            "title": "Organize o jogo em três passos",
+            "paragraphs": [
+              "As duas primeiras tentativas servem para abrir o tabuleiro e reunir pistas.",
+              "Depois disso, comece a validar sufixos e travar posições.",
+              "No fim, escolha a combinação que fecha o padrão."
+            ],
+            "bullets": [
+              "Com 3 letras certas, passe para palpites de encaixe.",
+              "Evite trocar posições já confirmadas.",
+              "Finalize com a palavra que respeita o padrão completo."
+            ]
+          },
+          {
+            "id": "erros",
+            "eyebrow": "Erros comuns",
+            "title": "O que mais derruba no 6 letras",
+            "paragraphs": [
+              "Ignorar o final da palavra e seguir testando letras aleatórias costuma travar o jogo.",
+              "Repetir vogais sem pista também reduz a informação disponível."
+            ],
+            "bullets": [
+              "Não repita letras sem pista.",
+              "Evite chutar antes de testar sufixos.",
+              "Troque a abertura se a informação for pouca."
+            ]
+          },
+          {
+            "id": "apoio",
+            "eyebrow": "Ferramentas",
+            "title": "Buscador para validar encaixe",
+            "paragraphs": [
+              "O buscador ajuda quando o início ou o fim já estão claros.",
+              "O modo infinito é útil para treinar aberturas longas sem pressão."
+            ],
+            "bullets": [
+              "Entre no buscador depois de 3 letras certas.",
+              "Compare opções com o mesmo sufixo.",
+              "Treine no infinito antes do termo diário."
+            ]
+          }
+        ],
+        "checklist": {
+          "title": "Checklist rápido do Termo 6 letras",
+          "items": [
+            "Abertura com 3 vogais e 3 consoantes",
+            "Sufixos testados com 3 letras certas",
+            "Reposicionamento das amarelas",
+            "Confirmação do final antes do chute"
+          ]
+        },
+        "faq": {
+          "title": "Perguntas frequentes do guia 6 letras",
+          "description": "Dúvidas sobre combinações maiores.",
+          "entries": [
+            {
+              "question": "Repetição de letras é comum?",
+              "answer": "Sim, principalmente de vogais. Considere duplicidade quando o padrão parecer curto."
+            },
+            {
+              "question": "Quando testar sufixos?",
+              "answer": "Assim que tiver 3 letras certas e alguma pista no final."
+            },
+            {
+              "question": "O buscador ajuda cedo?",
+              "answer": "Não. Ele funciona melhor quando o padrão já está bem definido."
+            },
+            {
+              "question": "O modo infinito muda algo?",
+              "answer": "A lógica é a mesma, mas o infinito ajuda a treinar novas aberturas."
+            },
+            {
+              "question": "Quando considerar sufixos?",
+              "answer": "Assim que tiver 3 letras certas e alguma pista no final."
+            }
+          ]
+        },
+        "cta": {
+          "title": "Pronto para jogar o Termo 6 letras?",
+          "description": "Use a estratégia no desafio diário ou pratique no infinito.",
+          "primaryLabel": "Jogar Termo 6 letras",
+          "secondaryLabel": "Abrir buscador 6 letras"
+        }
+      },
+      "7": {
+        "badge": "Guia 7 letras",
+        "title": "Guia do Termo de 7 letras",
+        "subtitle": "Divida a palavra em blocos e controle o miolo.",
+        "intro": "No Termo de 7 letras, o segredo é segmentar a palavra em início, meio e fim. Isso reduz o caos e melhora a leitura de pistas.",
+        "opening": {
+          "title": "Aberturas de 7 letras com diversidade maxima",
+          "subtitle": "Escolha palavras longas com vogais variadas para identificar o bloco mais forte.",
+          "sets": [
+            {
+              "label": "Set A: blocos claros",
+              "words": [
+                {
+                  "word": "CENARIO",
+                  "meaning": "ambiente, cena"
+                },
+                {
+                  "word": "FUTUROS",
+                  "meaning": "futuros"
+                },
+                {
+                  "word": "MENINOS",
+                  "meaning": "garotos"
+                }
+              ]
+            },
+            {
+              "label": "Set B: variacao de consoantes",
+              "words": [
+                {
+                  "word": "JARDINS",
+                  "meaning": "jardins"
+                },
+                {
+                  "word": "FAMILIA",
+                  "meaning": "familia"
+                },
+                {
+                  "word": "SENSATO",
+                  "meaning": "com bom senso"
+                }
+              ]
+            },
+            {
+              "label": "Set C: consoantes dominantes",
+              "words": [
+                {
+                  "word": "PROJETO",
+                  "meaning": "plano, projeto"
+                },
+                {
+                  "word": "FRENTES",
+                  "meaning": "frentes"
+                },
+                {
+                  "word": "CARTOES",
+                  "meaning": "cartoes"
+                }
+              ]
+            },
+            {
+              "label": "Set D: blocos simples",
+              "words": [
+                {
+                  "word": "CIDADES",
+                  "meaning": "cidades"
+                },
+                {
+                  "word": "PADROES",
+                  "meaning": "modelos, padroes"
+                },
+                {
+                  "word": "TRILHAS",
+                  "meaning": "caminhos"
+                }
+              ]
+            }
+          ],
+          "note": "Se o inicio vier vazio, troque o conjunto e foque em novas consoantes.",
+          "usage": "Uso sugerido: estavel = Set A (bloco principal), ataque = Set C (consoantes marcantes), conservador = Set D (encaixe do miolo)."
+        },
+        "linkLabel": "Guia Termo 7 letras",
+        "toc": [
+          {
+            "id": "abertura",
+            "label": "Abertura ideal"
+          },
+          {
+            "id": "leitura",
+            "label": "Leitura do tabuleiro"
+          },
+          {
+            "id": "fases",
+            "label": "Jogo por fases"
+          },
+          {
+            "id": "erros",
+            "label": "Erros comuns"
+          },
+          {
+            "id": "apoio",
+            "label": "Ferramentas de apoio"
+          },
+          {
+            "id": "faq",
+            "label": "FAQ"
+          }
+        ],
+        "sections": [
+          {
+            "id": "abertura",
+            "eyebrow": "Abertura",
+            "title": "Abertura ideal: diversidade máxima",
+            "paragraphs": [
+              "Abra com 7 letras distintas e pelo menos 3 vogais. Isso ajuda a mapear a estrutura.",
+              "Evite repetir letras cedo, a cobertura vale mais."
+            ],
+            "bullets": [
+              "Inclua consoantes variadas para reduzir opções.",
+              "Se o início vier vazio, mude o conjunto.",
+              "Guarde letras raras para depois."
+            ]
+          },
+          {
+            "id": "leitura",
+            "eyebrow": "Leitura de pistas",
+            "title": "Blocos definem o caminho",
+            "paragraphs": [
+              "Quando um bloco estiver claro (início ou fim), fixe-o e trabalhe o restante.",
+              "Amarelas no meio costumam indicar pares de letras comuns."
+            ],
+            "bullets": [
+              "Teste pares de letras para destravar o miolo.",
+              "Evite repetir letras cinza.",
+              "Considere duplicidade, ela é mais provável."
+            ]
+          },
+          {
+            "id": "fases",
+            "eyebrow": "Estratégia por fase",
+            "title": "Do bloco certo ao encaixe final",
+            "paragraphs": [
+              "Primeiro, descubra qual bloco (inicio ou fim) aparece mais claro nas pistas.",
+              "Depois, organize o miolo sem mexer nas posições já confirmadas.",
+              "Por fim, confirme o encaixe evitando chutes cedo demais."
+            ],
+            "bullets": [
+              "Com 3 letras certas, pare de trocar todas as posições.",
+              "Use um palpite de cobertura se houver muitas opções.",
+              "Finalize com a palavra que fecha o bloco principal."
+            ]
+          },
+          {
+            "id": "erros",
+            "eyebrow": "Erros comuns",
+            "title": "O que mais atrapalha no 7 letras",
+            "paragraphs": [
+              "Ignorar o miolo e insistir no mesmo final costuma travar o jogo.",
+              "Repetir letras descartadas é outro erro frequente."
+            ],
+            "bullets": [
+              "Não force um prefixo sem confirmação.",
+              "Evite chutes com letras cinza.",
+              "Troque a abordagem se o miolo travar."
+            ]
+          },
+          {
+            "id": "apoio",
+            "eyebrow": "Ferramentas",
+            "title": "Buscador para reorganizar amarelas",
+            "paragraphs": [
+              "O buscador ajuda a reorganizar letras amarelas sem perder as verdes.",
+              "O modo infinito é bom para treinar padrões longos com calma."
+            ],
+            "bullets": [
+              "Entre no buscador quando o bloco principal estiver definido.",
+              "Compare opções com finais iguais.",
+              "Treine blocos no infinito."
+            ]
+          }
+        ],
+        "checklist": {
+          "title": "Checklist rápido do Termo 7 letras",
+          "items": [
+            "Abertura com 7 letras distintas",
+            "Fixação de bloco forte (início ou fim)",
+            "Trabalho do miolo com pares comuns",
+            "Evitar repetição de letras cinza"
+          ]
+        },
+        "faq": {
+          "title": "Perguntas frequentes do guia 7 letras",
+          "description": "Dúvidas sobre blocos e padrões longos.",
+          "entries": [
+            {
+              "question": "Devo focar no prefixo ou no sufixo?",
+              "answer": "Foque no bloco mais claro nas pistas. Ele organiza o restante."
+            },
+            {
+              "question": "Repetição de letras é frequente?",
+              "answer": "Sim, principalmente em vogais. Considere duplicidade com atenção."
+            },
+            {
+              "question": "O buscador ajuda no miolo?",
+              "answer": "Ajuda sim, principalmente para reorganizar amarelas."
+            },
+            {
+              "question": "Quando usar jogada de cobertura?",
+              "answer": "Quando ainda houver muitas letras desconhecidas."
+            },
+            {
+              "question": "Como lidar com prefixos comuns?",
+              "answer": "Teste o prefixo apenas depois de travar pelo menos um bloco seguro."
+            }
+          ]
+        },
+        "cta": {
+          "title": "Pronto para jogar o Termo 7 letras?",
+          "description": "Teste blocos e padrões no desafio diário.",
+          "primaryLabel": "Jogar Termo 7 letras",
+          "secondaryLabel": "Abrir buscador 7 letras"
+        }
+      },
+      "8": {
+        "badge": "Guia 8 letras",
+        "title": "Guia do Termo de 8 letras",
+        "subtitle": "Finais comuns e duplicidade ganham peso.",
+        "intro": "No modo de 8 letras, as palavras têm estrutura definida. O segredo é ler finais comuns e checar repetição sem perder cobertura.",
+        "opening": {
+          "title": "Aberturas de 8 letras com finalizacao clara",
+          "subtitle": "Use palavras longas que trazem vogais diferentes e consoantes fortes.",
+          "sets": [
+            {
+              "label": "Set A: cobertura longa",
+              "words": [
+                {
+                  "word": "COMPUTAR",
+                  "meaning": "contar, calcular"
+                },
+                {
+                  "word": "DIREITOS",
+                  "meaning": "direitos"
+                },
+                {
+                  "word": "PALAVRAS",
+                  "meaning": "palavras"
+                }
+              ]
+            },
+            {
+              "label": "Set B: estrutura marcada",
+              "words": [
+                {
+                  "word": "MONTANHA",
+                  "meaning": "montanha"
+                },
+                {
+                  "word": "TRABALHO",
+                  "meaning": "trabalho"
+                },
+                {
+                  "word": "CONJUNTO",
+                  "meaning": "grupo, conjunto"
+                }
+              ]
+            },
+            {
+              "label": "Set C: consoantes fortes",
+              "words": [
+                {
+                  "word": "PRODUTOS",
+                  "meaning": "produtos"
+                },
+                {
+                  "word": "PLANETAS",
+                  "meaning": "planetas"
+                },
+                {
+                  "word": "CONTRATO",
+                  "meaning": "acordo escrito"
+                }
+              ]
+            },
+            {
+              "label": "Set D: finais comuns",
+              "words": [
+                {
+                  "word": "SERVICOS",
+                  "meaning": "servicos"
+                },
+                {
+                  "word": "EMPRESAS",
+                  "meaning": "empresas"
+                },
+                {
+                  "word": "COMERCIO",
+                  "meaning": "compra e venda"
+                }
+              ]
+            }
+          ],
+          "note": "No 8 letras, o ideal e abrir com diversidade e depois atacar o sufixo.",
+          "usage": "Uso sugerido: estavel = Set A (cobertura ampla), ataque = Set C (forca consoantes), conservador = Set D (confirma finais comuns)."
+        },
+        "linkLabel": "Guia Termo 8 letras",
+        "toc": [
+          {
+            "id": "abertura",
+            "label": "Abertura ideal"
+          },
+          {
+            "id": "leitura",
+            "label": "Leitura do tabuleiro"
+          },
+          {
+            "id": "fases",
+            "label": "Jogo por fases"
+          },
+          {
+            "id": "erros",
+            "label": "Erros comuns"
+          },
+          {
+            "id": "apoio",
+            "label": "Ferramentas de apoio"
+          },
+          {
+            "id": "faq",
+            "label": "FAQ"
+          }
+        ],
+        "sections": [
+          {
+            "id": "abertura",
+            "eyebrow": "Abertura",
+            "title": "Abertura ideal: 8 letras distintas",
+            "paragraphs": [
+              "A primeira jogada precisa cobrir muitas letras. Use 3 vogais e 5 consoantes variadas.",
+              "Evite repetir letras no início para manter cobertura."
+            ],
+            "bullets": [
+              "Inclua consoantes fortes como R, S e T.",
+              "Se vier tudo cinza, troque o conjunto.",
+              "Guarde letras raras para o meio."
+            ]
+          },
+          {
+            "id": "leitura",
+            "eyebrow": "Leitura de pistas",
+            "title": "Finais comuns aceleram o jogo",
+            "paragraphs": [
+              "Com 8 letras, finais comuns ajudam a fechar metade da palavra.",
+              "Duplicaçao de vogais aparece mais, então fique atento."
+            ],
+            "bullets": [
+              "Teste sufixos quando tiver 4 letras certas.",
+              "Reposicione amarelas rapidamente.",
+              "Evite repetir letras descartadas."
+            ]
+          },
+          {
+            "id": "fases",
+            "eyebrow": "Estratégia por fase",
+            "title": "Cobertura, encaixe e confirmação",
+            "paragraphs": [
+              "As duas primeiras jogadas devem abrir o máximo de letras possível.",
+              "Em seguida, foque em fixar posições e trabalhar o final.",
+              "No fim, confirme o encaixe completo antes do chute."
+            ],
+            "bullets": [
+              "Com 4 letras certas, passe para encaixe.",
+              "Use palpites de cobertura se houver muitas opções.",
+              "Finalize com a palavra que fecha o sufixo."
+            ]
+          },
+          {
+            "id": "erros",
+            "eyebrow": "Erros comuns",
+            "title": "Armadilhas do 8 letras",
+            "paragraphs": [
+              "Ignorar finais comuns e seguir testando letras aleatórias atrasa o jogo.",
+              "Deixar de considerar duplicidade quando o padrão está curto é outro erro típico."
+            ],
+            "bullets": [
+              "Não descarte a possibilidade de repetição.",
+              "Evite chutes antes de testar o final.",
+              "Troque a abertura se a informação for baixa."
+            ]
+          },
+          {
+            "id": "apoio",
+            "eyebrow": "Ferramentas",
+            "title": "Buscador para validar o final",
+            "paragraphs": [
+              "Use o buscador quando o fim estiver quase certo.",
+              "No infinito, voce consegue testar palavras longas sem pressa."
+            ],
+            "bullets": [
+              "Entre no buscador após 4 letras certas.",
+              "Compare palavras com o mesmo final.",
+              "Treine no infinito para ganhar confiança."
+            ]
+          }
+        ],
+        "checklist": {
+          "title": "Checklist rápido do Termo 8 letras",
+          "items": [
+            "Abertura com 8 letras distintas",
+            "Teste de sufixos com 4 letras certas",
+            "Checagem de duplicidade",
+            "Finalização sem letras descartadas"
+          ]
+        },
+        "faq": {
+          "title": "Perguntas frequentes do guia 8 letras",
+          "description": "Dúvidas sobre padrões longos.",
+          "entries": [
+            {
+              "question": "Quando testar sufixos longos?",
+              "answer": "Assim que houver pistas fortes no final da palavra."
+            },
+            {
+              "question": "Preciso de mais tentativas?",
+              "answer": "Não. O jogo continua com 6 tentativas."
+            },
+            {
+              "question": "O buscador ajuda cedo?",
+              "answer": "Ele funciona melhor quando o padrão já estiver quase fechado."
+            },
+            {
+              "question": "Repetição de letras é comum?",
+              "answer": "Sim, principalmente em vogais."
+            },
+            {
+              "question": "Letras raras importam?",
+              "answer": "Sim. Em palavras longas, letras menos frequentes aparecem mais do que parecem."
+            }
+          ]
+        },
+        "cta": {
+          "title": "Pronto para jogar o Termo 8 letras?",
+          "description": "Use o plano no desafio diário e confira o buscador quando precisar.",
+          "primaryLabel": "Jogar Termo 8 letras",
+          "secondaryLabel": "Abrir buscador 8 letras"
+        }
+      },
+      "9": {
+        "badge": "Guia 9 letras",
+        "title": "Guia do Termo de 9 letras",
+        "subtitle": "Sílabas e miolo definem o caminho.",
+        "intro": "No Termo de 9 letras, pensar em sílabas ajuda a reduzir o universo de palavras. O miolo costuma esconder letras menos frequentes.",
+        "opening": {
+          "title": "Aberturas de 9 letras para travar o padrao",
+          "subtitle": "Prefira palavras longas com variedade de vogais e consoantes para revelar o esqueleto.",
+          "sets": [
+            {
+              "label": "Set A: vogais distribuídas",
+              "words": [
+                {
+                  "word": "AUTONOMIA",
+                  "meaning": "independencia"
+                },
+                {
+                  "word": "CONFIAVEL",
+                  "meaning": "em que se pode confiar"
+                },
+                {
+                  "word": "PERSUASAO",
+                  "meaning": "convencimento"
+                }
+              ]
+            },
+            {
+              "label": "Set B: blocos de silabas",
+              "words": [
+                {
+                  "word": "VIOLENCIA",
+                  "meaning": "agressao"
+                },
+                {
+                  "word": "ESPERANCA",
+                  "meaning": "esperanca"
+                },
+                {
+                  "word": "DIFERENCA",
+                  "meaning": "algo diferente"
+                }
+              ]
+            },
+            {
+              "label": "Set C: consoantes em bloco",
+              "words": [
+                {
+                  "word": "FESTIVAIS",
+                  "meaning": "eventos, festivais"
+                },
+                {
+                  "word": "COMPLETAR",
+                  "meaning": "finalizar"
+                },
+                {
+                  "word": "PROJETADO",
+                  "meaning": "planejado"
+                }
+              ]
+            },
+            {
+              "label": "Set D: finais variados",
+              "words": [
+                {
+                  "word": "ECONOMIAS",
+                  "meaning": "reservas, poupanca"
+                },
+                {
+                  "word": "CRITERIOS",
+                  "meaning": "regras de escolha"
+                },
+                {
+                  "word": "MELHORIAS",
+                  "meaning": "mudancas para melhor"
+                }
+              ]
+            }
+          ],
+          "note": "No 9 letras, a abertura serve para mapear silabas e nao para decidir cedo.",
+          "usage": "Uso sugerido: estavel = Set A/B (mapa por silabas), ataque = Set C (consoantes em bloco), conservador = Set D (desempate do miolo)."
+        },
+        "linkLabel": "Guia Termo 9 letras",
+        "toc": [
+          {
+            "id": "abertura",
+            "label": "Abertura ideal"
+          },
+          {
+            "id": "leitura",
+            "label": "Leitura do tabuleiro"
+          },
+          {
+            "id": "fases",
+            "label": "Jogo por fases"
+          },
+          {
+            "id": "erros",
+            "label": "Erros comuns"
+          },
+          {
+            "id": "apoio",
+            "label": "Ferramentas de apoio"
+          },
+          {
+            "id": "faq",
+            "label": "FAQ"
+          }
+        ],
+        "sections": [
+          {
+            "id": "abertura",
+            "eyebrow": "Abertura",
+            "title": "Abertura ideal: diversidade e vogais",
+            "paragraphs": [
+              "Abra com alta diversidade de letras e 3 vogais distintas.",
+              "Evite repetir letras cedo para maximizar cobertura."
+            ],
+            "bullets": [
+              "Inclua consoantes variadas para reduzir opções.",
+              "Se o início vier vazio, troque a abertura.",
+              "Guarde letras raras para o miolo."
+            ]
+          },
+          {
+            "id": "leitura",
+            "eyebrow": "Leitura de pistas",
+            "title": "Sílabas ajudam a organizar",
+            "paragraphs": [
+              "Com 9 letras, pensar em sílabas ajuda a travar o padrão.",
+              "O final costuma ser mais previsível do que o meio."
+            ],
+            "bullets": [
+              "Teste pares consonantais para fechar o miolo.",
+              "Reposicione amarelas rapidamente.",
+              "Considere duplicidade quando faltar uma letra."
+            ]
+          },
+          {
+            "id": "fases",
+            "eyebrow": "Estratégia por fase",
+            "title": "Da cobertura ao encaixe do centro",
+            "paragraphs": [
+              "Abra o jogo buscando o bloco mais forte.",
+              "Com algumas letras certas, fixe início ou fim e trabalhe o miolo.",
+              "No final, escolha a combinação que fecha o centro."
+            ],
+            "bullets": [
+              "Com 4 letras certas, pare de trocar tudo.",
+              "Use palpite de cobertura se houver muitas opções.",
+              "Finalize com a palavra que fecha o miolo."
+            ]
+          },
+          {
+            "id": "erros",
+            "eyebrow": "Erros comuns",
+            "title": "Armadilhas do 9 letras",
+            "paragraphs": [
+              "Focar só no final e esquecer o centro costuma travar o jogo.",
+              "Repetir letras descartadas corta opções válidas."
+            ],
+            "bullets": [
+              "Não force finais sem confirmar o miolo.",
+              "Evite letras já eliminadas.",
+              "Troque a abordagem se o jogo travar."
+            ]
+          },
+          {
+            "id": "apoio",
+            "eyebrow": "Ferramentas",
+            "title": "Buscador para decidir o miolo",
+            "paragraphs": [
+              "Use o buscador quando o padrão geral estiver claro.",
+              "O modo infinito serve para testar silabas e combinacoes sem pressao."
+            ],
+            "bullets": [
+              "Entre no buscador após 4 letras certas.",
+              "Compare opções com finais iguais.",
+              "Treine padrões no infinito."
+            ]
+          }
+        ],
+        "checklist": {
+          "title": "Checklist rápido do Termo 9 letras",
+          "items": [
+            "Abertura com alta diversidade",
+            "Foco em sílabas e miolo",
+            "Reposicionamento das amarelas",
+            "Finalização com padrão fechado"
+          ]
+        },
+        "faq": {
+          "title": "Perguntas frequentes do guia 9 letras",
+          "description": "Dúvidas sobre sílabas e miolo.",
+          "entries": [
+            {
+              "question": "Palavras de 9 letras seguem padrões?",
+              "answer": "Muitas seguem, principalmente no final, mas o miolo exige confirmação."
+            },
+            {
+              "question": "Devo priorizar vogais ou consoantes?",
+              "answer": "No início, equilíbrio. Depois, foque nas consoantes do centro."
+            },
+            {
+              "question": "O buscador ajuda mesmo?",
+              "answer": "Sim, quando o padrão geral já estiver definido."
+            },
+            {
+              "question": "Repetição de letras é comum?",
+              "answer": "É mais provável do que nos modos curtos, especialmente em vogais."
+            },
+            {
+              "question": "Como tratar silabas repetidas?",
+              "answer": "Confirme o miolo antes de repetir silabas. Evite repetir por palpite."
+            }
+          ]
+        },
+        "cta": {
+          "title": "Pronto para jogar o Termo 9 letras?",
+          "description": "Aplique a estratégia e confirme o miolo com segurança.",
+          "primaryLabel": "Jogar Termo 9 letras",
+          "secondaryLabel": "Abrir buscador 9 letras"
+        }
+      },
+      "10": {
+        "badge": "Guia 10 letras",
+        "title": "Guia do Termo de 10 letras",
+        "subtitle": "Morfologia e padrões longos são decisivos.",
+        "intro": "No modo de 10 letras, reconhecer radicais e sufixos ajuda a fechar metade da palavra. O objetivo é abrir bem e ajustar o centro com cuidado.",
+        "opening": {
+          "title": "Aberturas de 10 letras com morfologia clara",
+          "subtitle": "Palavras longas bem escolhidas revelam o esqueleto e facilitam o encaixe.",
+          "sets": [
+            {
+              "label": "Set A: padroes conhecidos",
+              "words": [
+                {
+                  "word": "IMPORTANTE",
+                  "meaning": "relevante"
+                },
+                {
+                  "word": "TRANSPORTE",
+                  "meaning": "meio de levar"
+                },
+                {
+                  "word": "EDUCATIVAS",
+                  "meaning": "que ensinam"
+                }
+              ]
+            },
+            {
+              "label": "Set B: cobertura com ritmo",
+              "words": [
+                {
+                  "word": "COMUNICADO",
+                  "meaning": "aviso oficial"
+                },
+                {
+                  "word": "AUTORIZADO",
+                  "meaning": "permitido"
+                },
+                {
+                  "word": "REALIZANDO",
+                  "meaning": "fazendo, executando"
+                }
+              ]
+            },
+            {
+              "label": "Set C: consoantes e estrutura",
+              "words": [
+                {
+                  "word": "RESULTADOS",
+                  "meaning": "resultados"
+                },
+                {
+                  "word": "CONSTRUCAO",
+                  "meaning": "obra, construcao"
+                },
+                {
+                  "word": "PROGRAMADO",
+                  "meaning": "marcado, planejado"
+                }
+              ]
+            },
+            {
+              "label": "Set D: padroes longos",
+              "words": [
+                {
+                  "word": "PLANEJANDO",
+                  "meaning": "fazendo planos"
+                },
+                {
+                  "word": "FACILMENTE",
+                  "meaning": "com facilidade"
+                },
+                {
+                  "word": "FORTALECER",
+                  "meaning": "tornar mais forte"
+                }
+              ]
+            }
+          ],
+          "note": "Em 10 letras, o ganho esta em reconhecer padroes e nao em chutar cedo.",
+          "usage": "Uso sugerido: estavel = Set A (padroes claros), ataque = Set C (consoantes pesadas), conservador = Set D (validacao do centro)."
+        },
+        "linkLabel": "Guia Termo 10 letras",
+        "toc": [
+          {
+            "id": "abertura",
+            "label": "Abertura ideal"
+          },
+          {
+            "id": "leitura",
+            "label": "Leitura do tabuleiro"
+          },
+          {
+            "id": "fases",
+            "label": "Jogo por fases"
+          },
+          {
+            "id": "erros",
+            "label": "Erros comuns"
+          },
+          {
+            "id": "apoio",
+            "label": "Ferramentas de apoio"
+          },
+          {
+            "id": "faq",
+            "label": "FAQ"
+          }
+        ],
+        "sections": [
+          {
+            "id": "abertura",
+            "eyebrow": "Abertura",
+            "title": "Abertura ideal: cobertura máxima",
+            "paragraphs": [
+              "Abra com o máximo de letras diferentes e 3 vogais fortes.",
+              "Evite repetir letras no início para não perder informação."
+            ],
+            "bullets": [
+              "Inclua consoantes de alta frequência.",
+              "Troque o conjunto se a primeira tentativa for fraca.",
+              "Guarde letras raras para o meio."
+            ]
+          },
+          {
+            "id": "leitura",
+            "eyebrow": "Leitura de pistas",
+            "title": "Padrões morfológicos ajudam a decidir",
+            "paragraphs": [
+              "Radicais e sufixos longos indicam parte da palavra.",
+              "O miolo exige confirmação com letras amarelas."
+            ],
+            "bullets": [
+              "Teste terminações longas quando houver pista.",
+              "Reposicione amarelas antes de buscar novas letras.",
+              "Considere duplicidade quando faltar uma letra."
+            ]
+          },
+          {
+            "id": "fases",
+            "eyebrow": "Estratégia por fase",
+            "title": "Cobertura, morfologia e encaixe",
+            "paragraphs": [
+              "Abra com cobertura ampla e foque em padrões morfológicos logo depois.",
+              "Quando o final estiver claro, ajuste o centro com calma.",
+              "A decisão final vem do encaixe completo, não do chute."
+            ],
+            "bullets": [
+              "Com 5 letras certas, passe para encaixe parcial.",
+              "Evite trocar posições confirmadas.",
+              "Finalize com o padrão completo."
+            ]
+          },
+          {
+            "id": "erros",
+            "eyebrow": "Erros comuns",
+            "title": "O que mais atrapalha no 10 letras",
+            "paragraphs": [
+              "Ignorar padrões e seguir testando letras aleatórias atrasa o jogo.",
+              "Repetir letras sem pista clara reduz a cobertura."
+            ],
+            "bullets": [
+              "Não chute antes de confirmar o miolo.",
+              "Evite repetir letras descartadas.",
+              "Troque a abertura se a informação for pouca."
+            ]
+          },
+          {
+            "id": "apoio",
+            "eyebrow": "Ferramentas",
+            "title": "Buscador para decidir o centro",
+            "paragraphs": [
+              "Use o buscador quando o início e o fim estiverem claros.",
+              "O infinito permite experimentar padroes longos com mais liberdade."
+            ],
+            "bullets": [
+              "Entre no buscador após 5 letras certas.",
+              "Compare opções com o mesmo sufixo.",
+              "Treine no infinito antes do diário."
+            ]
+          }
+        ],
+        "checklist": {
+          "title": "Checklist rápido do Termo 10 letras",
+          "items": [
+            "Abertura com máxima diversidade",
+            "Identificação de padrões morfológicos",
+            "Ajuste do miolo com cuidado",
+            "Finalização sem letras descartadas"
+          ]
+        },
+        "faq": {
+          "title": "Perguntas frequentes do guia 10 letras",
+          "description": "Dúvidas sobre padrões e encaixe.",
+          "entries": [
+            {
+              "question": "Quando usar sufixos longos?",
+              "answer": "Assim que houver pistas no final da palavra."
+            },
+            {
+              "question": "Repetição de letras é comum?",
+              "answer": "Sim, principalmente em vogais."
+            },
+            {
+              "question": "O buscador ajuda cedo?",
+              "answer": "Ele funciona melhor quando o padrão já está claro."
+            },
+            {
+              "question": "O modo infinito ajuda?",
+              "answer": "Sim, ele permite treinar padrões longos com calma."
+            },
+            {
+              "question": "Como lidar com radicais parecidos?",
+              "answer": "Trave o final primeiro e use o buscador para decidir o centro."
+            }
+          ]
+        },
+        "cta": {
+          "title": "Pronto para jogar o Termo 10 letras?",
+          "description": "Aplique a estratégia e feche o padrão com segurança.",
+          "primaryLabel": "Jogar Termo 10 letras",
+          "secondaryLabel": "Abrir buscador 10 letras"
+        }
+      },
+      "11": {
+        "badge": "Guia 11 letras",
+        "title": "Guia do Termo de 11 letras",
+        "subtitle": "O maior desafio exige macroblocos e controle total das pistas.",
+        "intro": "No Termo de 11 letras, dividir a palavra em grandes blocos é essencial. O jogo exige leitura cuidadosa do miolo e confirmação constante.",
+        "opening": {
+          "title": "Aberturas de 11 letras com blocos evidentes",
+          "subtitle": "Palavras longas comuns ajudam a identificar prefixo, miolo e sufixo.",
+          "sets": [
+            {
+              "label": "Set A: vocabulario frequente",
+              "words": [
+                {
+                  "word": "CONVERSACAO",
+                  "meaning": "bate-papo"
+                },
+                {
+                  "word": "INTELIGENTE",
+                  "meaning": "esperto"
+                },
+                {
+                  "word": "ADMINISTRAR",
+                  "meaning": "gerenciar"
+                }
+              ]
+            },
+            {
+              "label": "Set B: padroes longos",
+              "words": [
+                {
+                  "word": "RELACIONADA",
+                  "meaning": "ligada a algo"
+                },
+                {
+                  "word": "DESENVOLVER",
+                  "meaning": "fazer crescer"
+                },
+                {
+                  "word": "INFORMACOES",
+                  "meaning": "dados, infos"
+                }
+              ]
+            },
+            {
+              "label": "Set C: consoantes e blocos",
+              "words": [
+                {
+                  "word": "FUNDAMENTAL",
+                  "meaning": "muito importante"
+                },
+                {
+                  "word": "ESTRATEGIAS",
+                  "meaning": "planos, taticas"
+                },
+                {
+                  "word": "CRESCIMENTO",
+                  "meaning": "aumento"
+                }
+              ]
+            },
+            {
+              "label": "Set D: estrutura longa",
+              "words": [
+                {
+                  "word": "PUBLICIDADE",
+                  "meaning": "anuncio"
+                },
+                {
+                  "word": "RESPONSAVEL",
+                  "meaning": "quem responde, confiavel"
+                },
+                {
+                  "word": "MENSALIDADE",
+                  "meaning": "pagamento mensal"
+                }
+              ]
+            }
+          ],
+          "note": "No 11 letras, foque em blocos grandes e confirme o miolo antes do chute final.",
+          "usage": "Uso sugerido: estavel = Set A (vogais e blocos), ataque = Set C (consoantes fortes), conservador = Set D (fechamento por blocos)."
+        },
+        "linkLabel": "Guia Termo 11 letras",
+        "toc": [
+          {
+            "id": "abertura",
+            "label": "Abertura ideal"
+          },
+          {
+            "id": "leitura",
+            "label": "Leitura do tabuleiro"
+          },
+          {
+            "id": "fases",
+            "label": "Jogo por fases"
+          },
+          {
+            "id": "erros",
+            "label": "Erros comuns"
+          },
+          {
+            "id": "apoio",
+            "label": "Ferramentas de apoio"
+          },
+          {
+            "id": "faq",
+            "label": "FAQ"
+          }
+        ],
+        "sections": [
+          {
+            "id": "abertura",
+            "eyebrow": "Abertura",
+            "title": "Abertura ideal: 4 vogais e cobertura",
+            "paragraphs": [
+              "Abra com 3 ou 4 vogais diferentes e consoantes fortes.",
+              "Evite repetir letras no início para maximizar informação."
+            ],
+            "bullets": [
+              "Inclua consoantes de alta frequência.",
+              "Se a primeira tentativa for fraca, troque o conjunto.",
+              "Guarde letras raras para o miolo."
+            ]
+          },
+          {
+            "id": "leitura",
+            "eyebrow": "Leitura de pistas",
+            "title": "Macroblocos ajudam a controlar o caos",
+            "paragraphs": [
+              "Separe a palavra em prefixo, miolo e sufixo. Fixe o bloco mais claro primeiro.",
+              "O miolo costuma esconder letras menos frequentes, então ajuste com cuidado."
+            ],
+            "bullets": [
+              "Reposicione amarelas antes de testar letras novas.",
+              "Considere duplicidade com mais frequência.",
+              "Use o teclado para eliminar letras cinza."
+            ]
+          },
+          {
+            "id": "fases",
+            "eyebrow": "Estratégia por fase",
+            "title": "Cobertura, blocos e confirmação",
+            "paragraphs": [
+              "Comece abrindo o máximo de letras distintas possível.",
+              "Depois, fixe blocos grandes e ajuste o miolo sem pressa.",
+              "O fechamento vem quando todos os blocos se encaixam."
+            ],
+            "bullets": [
+              "Com metade da palavra certa, pare de trocar tudo.",
+              "Evite chutes antes de fechar o miolo.",
+              "Finalize com a opção que respeita todos os blocos."
+            ]
+          },
+          {
+            "id": "erros",
+            "eyebrow": "Erros comuns",
+            "title": "Armadilhas do 11 letras",
+            "paragraphs": [
+              "Se perder no miolo e ignorar posições confirmadas é o erro mais comum.",
+              "Repetir letras descartadas por ansiedade também atrapalha."
+            ],
+            "bullets": [
+              "Não chute sem confirmação.",
+              "Evite repetir letras cinza.",
+              "Troque a abertura se a informação for pouca."
+            ]
+          },
+          {
+            "id": "apoio",
+            "eyebrow": "Ferramentas",
+            "title": "Buscador para fechar o encaixe final",
+            "paragraphs": [
+              "Use o buscador quando metade da palavra estiver definida.",
+              "O modo infinito ajuda a treinar blocos longos e reduzir erros."
+            ],
+            "bullets": [
+              "Entre no buscador após 5 ou 6 letras certas.",
+              "Compare opções com o mesmo sufixo.",
+              "Treine blocos no infinito."
+            ]
+          }
+        ],
+        "checklist": {
+          "title": "Checklist rápido do Termo 11 letras",
+          "items": [
+            "Abertura com 3 ou 4 vogais distintas",
+            "Divisão em prefixo, miolo e sufixo",
+            "Reposicionamento das amarelas",
+            "Confirmação de blocos antes do chute"
+          ]
+        },
+        "faq": {
+          "title": "Perguntas frequentes do guia 11 letras",
+          "description": "Dúvidas sobre o maior desafio do Termo.",
+          "entries": [
+            {
+              "question": "Duplicidade de letras é regra?",
+              "answer": "Não é regra, mas é bem mais provável neste tamanho."
+            },
+            {
+              "question": "Quando usar o buscador?",
+              "answer": "Quando metade da palavra estiver definida e você precisar escolher o encaixe certo."
+            },
+            {
+              "question": "O modo infinito ajuda?",
+              "answer": "Sim, ele permite treinar palavras longas sem pressão."
+            },
+            {
+              "question": "Preciso de mais tentativas?",
+              "answer": "Não. O jogo continua com 6 tentativas."
+            },
+            {
+              "question": "Como organizar o jogo sem se perder?",
+              "answer": "Divida em blocos e confirme um de cada vez antes de avançar."
+            }
+          ]
+        },
+        "cta": {
+          "title": "Pronto para jogar o Termo 11 letras?",
+          "description": "Aplique a estratégia e feche o padrão com segurança.",
+          "primaryLabel": "Jogar Termo 11 letras",
+          "secondaryLabel": "Abrir buscador 11 letras"
+        }
+      }
+    }
+  },
+  "BuscadorTermoPage": {
+    "seoTitle": "Buscador Termo {length} letras | Palavras válidas",
+    "seoDescription": "Use o buscador Termo {length} letras para achar palavras válidas em português. Filtre letras verdes, amarelas e cinzas e acelere cada rodada.",
+    "seoKeywords": "buscador termo, termo {length} letras, solver termo, wordle português",
+    "heading": "Buscador Termo {length} Letras",
+    "subheading": "Encontre palavras válidas para o Termo de {length} letras usando filtros inteligentes de letras verdes, amarelas e cinzas.",
+    "lengthMeta": {
+      "3": {
+        "title": "Buscador Termo 3 letras | Filtros rápidos e precisos",
+        "description": "Resolva o Termo 3 letras com mais velocidade. Filtre posições, letras presentes e ausentes para eliminar combinações em segundos.",
+        "keywords": "buscador termo 3 letras, termo 3 letras, solver termo, wordle português"
+      },
+      "4": {
+        "title": "Buscador Termo 4 letras | Corte opções parecidas",
+        "description": "Use o buscador Termo 4 letras para separar palavras semelhantes. Ajuste verdes, amarelas e cinzas e escolha o palpite ideal.",
+        "keywords": "buscador termo 4 letras, termo 4 letras, dicas termo, wordle português"
+      },
+      "5": {
+        "title": "Buscador Termo 5 letras | Palavras válidas e combináveis",
+        "description": "Filtre combinações válidas no Termo 5 letras. Cruze pistas do teclado e refine os palpites no modo diário ou infinito.",
+        "keywords": "buscador termo 5 letras, termo 5 letras, solver termo, wordle português"
+      },
+      "6": {
+        "title": "Buscador Termo 6 letras | Encaixe sufixos com precisão",
+        "description": "No Termo 6 letras, o buscador ajuda a testar sufixos e padrões. Use filtros avançados para reduzir a lista de palavras.",
+        "keywords": "buscador termo 6 letras, termo 6 letras, dicas termo, wordle português"
+      },
+      "7": {
+        "title": "Buscador Termo 7 letras | Organize blocos e posições",
+        "description": "Encontre palavras de 7 letras compatíveis com suas pistas. O buscador separa opções e ajuda a reorganizar letras amarelas.",
+        "keywords": "buscador termo 7 letras, termo 7 letras, solver termo, wordle português"
+      },
+      "8": {
+        "title": "Buscador Termo 8 letras | Padrões longos sem erro",
+        "description": "Use o buscador Termo 8 letras para validar padrões longos e reduzir o risco de chutes. Ideal para palavras com repetição.",
+        "keywords": "buscador termo 8 letras, termo 8 letras, dicas termo, wordle português"
+      },
+      "9": {
+        "title": "Buscador Termo 9 letras | Sílabas e combinações válidas",
+        "description": "Filtre palavras de 9 letras com base nas pistas do jogo. Cruce sílabas, finais comuns e letras confirmadas.",
+        "keywords": "buscador termo 9 letras, termo 9 letras, solver termo, wordle português"
+      },
+      "10": {
+        "title": "Buscador Termo 10 letras | Ajuste morfológico",
+        "description": "No Termo 10 letras, cada filtro conta. Use o buscador para testar padrões e encaixar letras centrais com segurança.",
+        "keywords": "buscador termo 10 letras, termo 10 letras, dicas termo, wordle português"
+      },
+      "11": {
+        "title": "Buscador Termo 11 letras | Desafio máximo",
+        "description": "Elimine combinações longas no Termo 11 letras. Filtros inteligentes ajudam a fechar o encaixe final.",
+        "keywords": "buscador termo 11 letras, termo 11 letras, solver termo, wordle português"
+      }
+    },
+    "lengthHeadings": {
+      "3": {
+        "heading": "Buscador Termo 3 letras: resolva rápido",
+        "subheading": "Quando o jogo é curto, cada filtro decide. Elimine opções parecidas e chegue à palavra final em poucos cliques."
+      },
+      "4": {
+        "heading": "Buscador Termo 4 letras: corte o ruído",
+        "subheading": "Use as pistas do teclado para separar palavras quase iguais e escolher a combinação correta."
+      },
+      "5": {
+        "heading": "Buscador Termo 5 letras: apoio ao clássico",
+        "subheading": "Cruze verdes, amarelas e cinzas para refinar palpites no modo diário, infinito e desafios."
+      },
+      "6": {
+        "heading": "Buscador Termo 6 letras: teste sufixos",
+        "subheading": "Com mais combinações, o buscador ajuda a validar encaixes e evitar tentativas desperdiçadas."
+      },
+      "7": {
+        "heading": "Buscador Termo 7 letras: organize blocos",
+        "subheading": "Rearranje letras amarelas e confirme o miolo da palavra com filtros precisos."
+      },
+      "8": {
+        "heading": "Buscador Termo 8 letras: padrão longo",
+        "subheading": "Trabalhe finais comuns e repetições com uma lista limpa de palavras válidas."
+      },
+      "9": {
+        "heading": "Buscador Termo 9 letras: sílabas em foco",
+        "subheading": "Use o filtro para testar combinações de sílabas e travar as posições certas."
+      },
+      "10": {
+        "heading": "Buscador Termo 10 letras: encaixe progressivo",
+        "subheading": "Quando a palavra é longa, cada pista vale. Reduza o conjunto e decida com segurança."
+      },
+      "11": {
+        "heading": "Buscador Termo 11 letras: precisão total",
+        "subheading": "Filtros inteligentes ajudam a fechar o quebra-cabeça maior do Termo."
+      }
+    },
+    "lengthLabel": "Quantidade de letras",
+    "shareButton": "Compartilhar buscador",
+    "shareMessage": "Confira o Buscador Termo de {length} letras",
+    "shareShared": "Link pronto para compartilhar!",
+    "shareCopied": "Link copiado. Agora é só enviar!",
+    "shareError": "Não foi possível copiar o link. Tente novamente.",
+    "filtersTitle": "Filtros de Letras",
+    "filtersDescription": "Configure as letras descobertas no seu jogo Termo para encontrar palavras compatíveis.",
+    "clearFilters": "Limpar Filtros",
+    "correctLettersTitle": "Letras Corretas (Verdes)",
+    "correctLettersDescription": "Posições confirmadas - letras que estão no lugar certo.",
+    "includeLettersTitle": "Letras Presentes (Amarelas)",
+    "includeLettersDescription": "Letras que existem na palavra mas estão em posição diferente.",
+    "includeEmpty": "Clique para adicionar letras",
+    "excludeLettersTitle": "Letras Ausentes (Cinzas)",
+    "excludeLettersDescription": "Letras que não existem na palavra.",
+    "excludeEmpty": "Selecione letras para excluir",
+    "examples": "Exemplo de Uso",
+    "example2": "🟩 A | 🟨 L | ⬛ G | ⬛ U | ⬛ M = Resultados contendo A, L, sem G, U, M, com A na 1ª posição",
+    "resultsTitle": "Resultados Encontrados",
+    "resultsDescription": "Palavras compatíveis com seus filtros aplicados.",
+    "resultsCount": "{count, plural, =0 {Nenhum resultado} =1 {1 resultado} other {{count} resultados}}",
+    "wordListLoading": "Carregando lista de palavras...",
+    "wordListError": "Não foi possível carregar a lista de palavras. Tente novamente.",
+    "noResultsHelp": "Nenhuma palavra encontrada. Tente ajustar ou remover alguns filtros para expandir a busca.",
+    "resultsLimitNotice": "Mostrando os primeiros {count} resultados de um total de {total}. Refine os filtros para reduzir a lista.",
+    "guideLinkFallback": "Guia completo do Termo",
+    "helperTitle": "Dicas para Usar o Buscador",
+    "tip1": "Comece preenchendo as letras verdes nas posições corretas para reduzir drasticamente as opções.",
+    "tip2": "Use letras amarelas para garantir que os resultados contenham as letras necessárias em qualquer posição.",
+    "tip3": "Remova letras cinzas para eliminar palavras inválidas e focar apenas em possibilidades reais.",
+    "allWordsSummary": "Ver lista completa de palavras permitidas ({count})",
+    "allWordsDescription": "Lista oficial de palavras aceitáveis para o Termo de {length} letras, fornecida para referência."
+  },
+  "LengthPage": {
+    "heading": "Termo de {length} letras",
+    "headingDescription": "Jogue o Termo de {length} letras no modo diário, infinito ou desafio e acompanhe seu desempenho com estatísticas detalhadas.",
+    "introTitle": "Como jogar o Termo de {length} letras",
+    "introParagraphs": [
+      "O Termo de {length} letras é perfeito para treinar vocabulário em português com um nível de dificuldade equilibrado. Você continua com seis tentativas, mas a quantidade de combinações possíveis muda bastante conforme o tamanho da palavra.",
+      "Use este modo para desafiar amigos, preparar competições internas ou simplesmente sair da rotina do termo clássico de 5 letras. Nossa lista oficial reúne palavras em português atual, com suporte total a acentos e cedilha.",
+      "Dica bônus: combine este modo com o buscador Termo de {length} letras e filtre rapidamente as alternativas antes de arriscar seus palpites."
+    ],
+    "tipsTitle": "Dicas para acertar mais rápido",
+    "tips": [
+      "Comece por palavras com várias vogais diferentes para mapear as posições mais rapidamente.",
+      "Observe as letras repetidas: o modo de {length} letras costuma trazer palavras com duplicidades, especialmente em vogais.",
+      "Valorize o histórico do teclado. As cores representam o que já foi testado, inclusive sem diferenciar acentos.",
+      "Mantenha uma lista pessoal de aberturas favoritas para cada tamanho. Isso agiliza os primeiros palpites."
+    ],
+    "guideLinkFallback": "Guia completo do Termo",
+    "linksTitle": "Próximos passos",
+    "linksIntro": "Aproveite estes recursos para continuar evoluindo nos desafios do Termo:",
+    "sameLengthSearch": "Buscador Termo de {length} letras",
+    "currentLengthPlayCta": "Jogar novamente o Termo de {length} letras",
+    "otherLengthsTitle": "Outros Termos populares",
+    "otherLengthsDescription": "Troque o tamanho da palavra e teste sua adaptação:",
+    "otherLengthCta": "Jogar Termo de {length} letras",
+    "faq": {
+      "title": "Perguntas Frequentes sobre Termo de {length} letras",
+      "subtitle": "Tire suas dúvidas sobre o modo de {length} letras",
+      "questions": [
+        {
+          "question": "O Termo de {length} letras é mais difícil?",
+          "answer": "A dificuldade depende do seu vocabulário. Palavras de {length} letras podem ser mais desafiadoras por terem mais combinações possíveis, mas as regras são as mesmas do jogo original."
+        },
+        {
+          "question": "Quantas tentativas eu tenho no modo de {length} letras?",
+          "answer": "Você continua tendo 6 tentativas para descobrir a palavra secreta, independentemente do número de letras. Use a estratégia de eliminar letras comuns primeiro!"
+        },
+        {
+          "question": "As palavras de {length} letras têm acento?",
+          "answer": "Sim, o jogo aceita e utiliza palavras com acentos (á, é, í, ó, ú, â, ê, ô, ã, õ, ç). Na hora de digitar, você não precisa colocar o acento, o jogo entende automaticamente."
+        },
+        {
+          "question": "Posso jogar o modo de {length} letras no celular?",
+          "answer": "Com certeza! O jogo é totalmente responsivo e funciona perfeitamente em celulares e tablets, ajustando o tamanho do teclado e das letras para sua tela."
+        }
+      ]
+    },
+    "meta": {
+      "3": {
+        "title": "Termo 3 letras | Desafio rápido em português",
+        "description": "Jogue o Termo de 3 letras com seis tentativas e ritmo acelerado. Modo diário, infinito e desafios personalizados no termo-jogo.com."
+      },
+      "4": {
+        "title": "Termo 4 letras | Jogo curto e estratégico",
+        "description": "Teste seu vocabulário no Termo 4 letras. Pistas rápidas, posições decisivas e modos diário, infinito e desafio."
+      },
+      "5": {
+        "title": "Termo 5 letras | O clássico do wordle português",
+        "description": "Encontre a palavra de 5 letras no Termo diário ou jogue no modo infinito. Estratégia e pistas coloridas no termo-jogo.com."
+      },
+      "6": {
+        "title": "Termo 6 letras | Mais combinações, mais estratégia",
+        "description": "Jogue o Termo de 6 letras e explore padrões e sufixos. Seis tentativas para acertar no modo diário ou infinito."
+      },
+      "7": {
+        "title": "Termo 7 letras | Quebra-cabeça maior",
+        "description": "No Termo 7 letras, cada pista importa. Divida a palavra em blocos e avance no desafio diário ou infinito."
+      },
+      "8": {
+        "title": "Termo 8 letras | Padrões longos em português",
+        "description": "Encare o Termo de 8 letras com foco em finais comuns e repetição. Jogue grátis no termo-jogo.com."
+      },
+      "9": {
+        "title": "Termo 9 letras | Estratégia por sílabas",
+        "description": "Resolva palavras de 9 letras usando pistas e padrões. Modo diário, infinito e desafios personalizados."
+      },
+      "10": {
+        "title": "Termo 10 letras | Desafio de palavras longas",
+        "description": "No Termo 10 letras, reconheça padrões morfológicos e encaixe o miolo. Seis tentativas para vencer."
+      },
+      "11": {
+        "title": "Termo 11 letras | O maior desafio do Termo",
+        "description": "Jogue o Termo de 11 letras e teste seu vocabulário no máximo. Planeje blocos e feche a palavra."
+      }
+    },
+    "howToPlay": {
+      "3": {
+        "title": "Como jogar o Termo de 3 letras",
+        "subtitle": "Modo rápido: poucas posições, pistas fortes e decisões em sequência.",
+        "steps": [
+          {
+            "number": "1",
+            "title": "Abra com cobertura",
+            "description": "Use duas vogais e uma consoante comum para mapear o padrão."
+          },
+          {
+            "number": "2",
+            "title": "Reposicione a amarela",
+            "description": "Em 3 letras, uma amarela costuma definir o centro. Mova-a logo."
+          },
+          {
+            "number": "3",
+            "title": "Corte opções",
+            "description": "Elimine letras cinza e confirme a posição das verdes."
+          },
+          {
+            "number": "4",
+            "title": "Feche a palavra",
+            "description": "Escolha a opção que encaixa sem repetir letras descartadas."
+          }
+        ],
+        "tipsTitle": "Dicas rápidas para 3 letras",
+        "tipsList": [
+          "Priorize vogais distintas na abertura.",
+          "Evite repetir letras no primeiro palpite.",
+          "Use o buscador apenas no final.",
+          "Considere duplicidade só com pista clara."
+        ],
+        "stepCaptions": [
+          "Abertura curta",
+          "Reposicionando",
+          "Filtrando",
+          "Conclusão"
+        ]
+      },
+      "4": {
+        "title": "Como jogar o Termo de 4 letras",
+        "subtitle": "Equilíbrio entre cobertura e posição para decidir rápido.",
+        "steps": [
+          {
+            "number": "1",
+            "title": "Cobertura inicial",
+            "description": "Comece com duas vogais e duas consoantes fortes."
+          },
+          {
+            "number": "2",
+            "title": "Fixe as verdes",
+            "description": "Confirme posições corretas antes de buscar letras novas."
+          },
+          {
+            "number": "3",
+            "title": "Teste posições",
+            "description": "Reposicione amarelas para reduzir as palavras parecidas."
+          },
+          {
+            "number": "4",
+            "title": "Decida com precisão",
+            "description": "Se houver empate, use o filtro para escolher a opção certa."
+          }
+        ],
+        "tipsTitle": "Dicas para 4 letras",
+        "tipsList": [
+          "Evite repetir letras cedo.",
+          "Use um palpite de cobertura se houver muitas opções.",
+          "Fixe o padrão antes do chute final.",
+          "A repetição só vale com indício."
+        ],
+        "stepCaptions": [
+          "Abertura",
+          "Fixando",
+          "Ajustando",
+          "Decisão"
+        ]
+      },
+      "5": {
+        "title": "Como jogar o Termo de 5 letras",
+        "subtitle": "O clássico pede equilíbrio entre cobertura e ajuste fino.",
+        "steps": [
+          {
+            "number": "1",
+            "title": "Abertura informativa",
+            "description": "Use uma palavra sem repetições para revelar letras cedo."
+          },
+          {
+            "number": "2",
+            "title": "Organize as pistas",
+            "description": "Fixe as verdes e reposicione as amarelas."
+          },
+          {
+            "number": "3",
+            "title": "Ajuste o padrão",
+            "description": "Teste novas letras sem quebrar posições confirmadas."
+          },
+          {
+            "number": "4",
+            "title": "Finalize com segurança",
+            "description": "Escolha a melhor combinação entre as opções restantes."
+          }
+        ],
+        "tipsTitle": "Dicas para 5 letras",
+        "tipsList": [
+          "Vogais variadas revelam muito cedo.",
+          "Considere repetição quando o padrão ficar curto.",
+          "Guarde um palpite de cobertura para destravar.",
+          "Use o modo infinito para treinar aberturas."
+        ],
+        "stepCaptions": [
+          "Abertura",
+          "Organizando",
+          "Ajustando",
+          "Finalizando"
+        ]
+      },
+      "6": {
+        "title": "Como jogar o Termo de 6 letras",
+        "subtitle": "Mais combinações exigem disciplina nas pistas.",
+        "steps": [
+          {
+            "number": "1",
+            "title": "Mapa inicial",
+            "description": "Use 3 vogais e 3 consoantes fortes para cobrir o máximo."
+          },
+          {
+            "number": "2",
+            "title": "Posições corretas",
+            "description": "Segure as verdes e reorganize amarelas com cuidado."
+          },
+          {
+            "number": "3",
+            "title": "Teste sufixos",
+            "description": "Com 3 letras certas, verifique padrões de final."
+          },
+          {
+            "number": "4",
+            "title": "Feche o encaixe",
+            "description": "Use o filtro para confirmar a melhor combinação."
+          }
+        ],
+        "tipsTitle": "Dicas para 6 letras",
+        "tipsList": [
+          "Sufixos simples ajudam a decidir.",
+          "Verifique repetição de vogais com atenção.",
+          "Evite trocar letras já confirmadas.",
+          "Use o buscador para validar o final."
+        ],
+        "stepCaptions": [
+          "Mapa",
+          "Fixando",
+          "Sufixos",
+          "Fechando"
+        ]
+      },
+      "7": {
+        "title": "Como jogar o Termo de 7 letras",
+        "subtitle": "Divida a palavra em blocos para ganhar clareza.",
+        "steps": [
+          {
+            "number": "1",
+            "title": "Abertura ampla",
+            "description": "Cubra 7 letras distintas com 3 vogais na primeira jogada."
+          },
+          {
+            "number": "2",
+            "title": "Monte o bloco certo",
+            "description": "Fixe o início ou o fim e reorganize o restante."
+          },
+          {
+            "number": "3",
+            "title": "Destrave o miolo",
+            "description": "Teste pares de letras comuns para fechar o centro."
+          },
+          {
+            "number": "4",
+            "title": "Confirme a solução",
+            "description": "Use o filtro para escolher a combinação final correta."
+          }
+        ],
+        "tipsTitle": "Dicas para 7 letras",
+        "tipsList": [
+          "Pense em início, meio e fim.",
+          "Evite repetir letras cinza.",
+          "Duplicidade é mais provável neste tamanho.",
+          "O buscador ajuda a reorganizar amarelas."
+        ],
+        "stepCaptions": [
+          "Abrindo",
+          "Blocos",
+          "Miolo",
+          "Conclusão"
+        ]
+      },
+      "8": {
+        "title": "Como jogar o Termo de 8 letras",
+        "subtitle": "Padrões longos e finais comuns fazem diferença.",
+        "steps": [
+          {
+            "number": "1",
+            "title": "Cobertura forte",
+            "description": "Abra com 3 vogais e 5 consoantes distintas."
+          },
+          {
+            "number": "2",
+            "title": "Reposicione amarelas",
+            "description": "Duas amarelas seguidas indicam mudança imediata."
+          },
+          {
+            "number": "3",
+            "title": "Teste o final",
+            "description": "Com 4 letras certas, explore sufixos possíveis."
+          },
+          {
+            "number": "4",
+            "title": "Feche o padrão",
+            "description": "Use o filtro para escolher a palavra que encaixa tudo."
+          }
+        ],
+        "tipsTitle": "Dicas para 8 letras",
+        "tipsList": [
+          "Não ignore letras raras.",
+          "Sufixos longos economizam tentativas.",
+          "Confirme duplicidade quando o padrão parecer curto.",
+          "Evite chutes antes de ter 4 letras certas."
+        ],
+        "stepCaptions": [
+          "Cobertura",
+          "Reposicionando",
+          "Sufixo",
+          "Final"
+        ]
+      },
+      "9": {
+        "title": "Como jogar o Termo de 9 letras",
+        "subtitle": "Sílabas e padrões ajudam a reduzir o caos.",
+        "steps": [
+          {
+            "number": "1",
+            "title": "Diversidade de letras",
+            "description": "Abra com 3 vogais distintas e consoantes variadas."
+          },
+          {
+            "number": "2",
+            "title": "Sílabas em foco",
+            "description": "Use as pistas para testar combinações de sílabas."
+          },
+          {
+            "number": "3",
+            "title": "Trave o miolo",
+            "description": "Quando tiver 4 letras certas, fixe o centro."
+          },
+          {
+            "number": "4",
+            "title": "Escolha correta",
+            "description": "Compare opções com o mesmo final para não errar por detalhe."
+          }
+        ],
+        "tipsTitle": "Dicas para 9 letras",
+        "tipsList": [
+          "Evite repetir letras no início.",
+          "Use o filtro para confirmar o miolo.",
+          "Considere duplicidade quando faltar uma letra.",
+          "Finais comuns ajudam a fechar metade da palavra."
+        ],
+        "stepCaptions": [
+          "Abertura",
+          "Sílabas",
+          "Miolo",
+          "Decisão"
+        ]
+      },
+      "10": {
+        "title": "Como jogar o Termo de 10 letras",
+        "subtitle": "Padrões morfológicos aceleram o encaixe.",
+        "steps": [
+          {
+            "number": "1",
+            "title": "Cobertura máxima",
+            "description": "Use muitas letras diferentes e 3 vogais fortes."
+          },
+          {
+            "number": "2",
+            "title": "Identifique padrões",
+            "description": "Procure terminações longas e radicais conhecidos."
+          },
+          {
+            "number": "3",
+            "title": "Ajuste o centro",
+            "description": "Com 5 letras certas, teste o miolo com cuidado."
+          },
+          {
+            "number": "4",
+            "title": "Confirme o encaixe",
+            "description": "Use o filtro para decidir entre opções semelhantes."
+          }
+        ],
+        "tipsTitle": "Dicas para 10 letras",
+        "tipsList": [
+          "Sufixos longos economizam tentativas.",
+          "Letras raras costumam aparecer no meio.",
+          "Evite repetir letras descartadas.",
+          "Use o buscador quando o início e o fim estiverem claros."
+        ],
+        "stepCaptions": [
+          "Cobertura",
+          "Padrões",
+          "Miolo",
+          "Confirmação"
+        ]
+      },
+      "11": {
+        "title": "Como jogar o Termo de 11 letras",
+        "subtitle": "Planeje macroblocos e confirme cada posição.",
+        "steps": [
+          {
+            "number": "1",
+            "title": "Abertura informativa",
+            "description": "Priorize 3 ou 4 vogais diferentes e consoantes fortes."
+          },
+          {
+            "number": "2",
+            "title": "Divida a palavra",
+            "description": "Separe prefixo, miolo e sufixo para organizar as pistas."
+          },
+          {
+            "number": "3",
+            "title": "Reorganize amarelas",
+            "description": "Antes de inventar novas letras, encaixe as presentes."
+          },
+          {
+            "number": "4",
+            "title": "Finalize com segurança",
+            "description": "Use o filtro para escolher o encaixe final correto."
+          }
+        ],
+        "tipsTitle": "Dicas para 11 letras",
+        "tipsList": [
+          "Duplicidade é mais provável neste tamanho.",
+          "Evite trocar posições já confirmadas.",
+          "Use o buscador quando metade da palavra estiver definida.",
+          "Padrões longos ajudam a fechar o final."
+        ],
+        "stepCaptions": [
+          "Abertura",
+          "Blocos",
+          "Reposição",
+          "Final"
+        ]
+      }
+    },
+    "lengthContent": {
+      "3": {
+        "headingDescription": "Modo rápido com 3 letras: pistas fortes, decisões imediatas e seis tentativas para acertar.",
+        "introParagraphs": [
+          "Com 3 letras, cada pista muda o jogo rapidamente. O desafio aqui é eliminar possibilidades antes que as palavras parecidas comecem a confundir.",
+          "Como o espaço é pequeno, duas letras iguais podem aparecer, mas a melhor estratégia ainda é variar bastante no início.",
+          "Use o buscador de 3 letras para testar combinações finais quando restarem poucas opções."
+        ],
+        "tips": [
+          "Abra com 2 vogais diferentes para mapear rapidamente a estrutura.",
+          "Se a primeira tentativa vier toda cinza, troque o conjunto de letras por completo.",
+          "Reposicione qualquer letra amarela imediatamente, ela costuma definir o centro.",
+          "Repetição só vale a pena quando você já viu a letra duas vezes."
+        ],
+        "faqTitle": "Perguntas frequentes sobre o Termo de 3 letras",
+        "faqSubtitle": "Dicas rápidas para vencer o modo mais curto",
+        "faq": [
+          {
+            "question": "Tenho menos tentativas no modo de 3 letras?",
+            "answer": "Não. Você continua com 6 tentativas, mas o ritmo é mais rápido porque as pistas aparecem cedo."
+          },
+          {
+            "question": "Repetição de letra é comum em 3 letras?",
+            "answer": "Pode acontecer, mas é menos frequente do que em palavras maiores. Espere pista antes de repetir."
+          },
+          {
+            "question": "Vale a pena abrir com duas vogais?",
+            "answer": "Sim. Duas vogais ajudam a definir o padrão da palavra e reduzem as opções de forma drástica."
+          },
+          {
+            "question": "O buscador realmente ajuda nesse tamanho?",
+            "answer": "Ajuda na parte final, quando restam poucas combinações e você quer evitar um chute cego."
+          }
+        ]
+      },
+      "4": {
+        "headingDescription": "No Termo de 4 letras, o ritmo e a posição das letras são decisivos para vencer.",
+        "introParagraphs": [
+          "No Termo de 4 letras, a estratégia precisa equilibrar cobertura e posicionamento. Uma letra certa já muda boa parte das opções.",
+          "Esse tamanho favorece padrões simples, então vale testar posições antes de se prender a uma palavra.",
+          "Se restarem muitas possibilidades, o buscador de 4 letras ajuda a filtrar rapidamente."
+        ],
+        "tips": [
+          "Comece com 2 vogais e 2 consoantes fortes para maximizar informação.",
+          "Evite repetir letra na primeira jogada, a cobertura é mais valiosa.",
+          "Quando aparecer uma verde, fixe a posição e reorganize as amarelas.",
+          "Se houver duas opções finais, use um palpite que teste letras diferentes."
+        ],
+        "faqTitle": "Perguntas frequentes sobre o Termo de 4 letras",
+        "faqSubtitle": "Como acelerar seus acertos em palavras curtas",
+        "faq": [
+          {
+            "question": "O modo de 4 letras é mais fácil?",
+            "answer": "Ele é mais rápido, mas gera muitas palavras parecidas. A dificuldade vem das opções similares."
+          },
+          {
+            "question": "Quantas vogais devo testar no início?",
+            "answer": "Duas vogais diferentes já cobrem boa parte do vocabulário e deixam o restante mais previsível."
+          },
+          {
+            "question": "Devo arriscar logo a palavra final?",
+            "answer": "Se ainda houver muitas opções, use um palpite de cobertura. Se restarem poucas, vá direto."
+          },
+          {
+            "question": "O buscador substitui o raciocínio?",
+            "answer": "Não. Ele ajuda a filtrar, mas o melhor resultado vem de combinar as pistas do jogo."
+          }
+        ]
+      },
+      "5": {
+        "headingDescription": "O clássico de 5 letras combina palavra diária, modo infinito e desafios personalizados.",
+        "introParagraphs": [
+          "O Termo de 5 letras é o formato clássico: equilibrado entre informação e risco. Uma boa abertura costuma definir metade do caminho.",
+          "Aqui a repetição de letras já aparece com frequência, então não descarte essa possibilidade cedo demais.",
+          "Use o buscador de 5 letras como apoio para confirmar combinações quando restarem poucas tentativas."
+        ],
+        "tips": [
+          "Abra com uma palavra sem repetições e com vogais variadas.",
+          "Fixe as verdes e reposicione as amarelas antes de trocar tudo.",
+          "Se ficar preso, use uma jogada de cobertura para testar 3 letras novas.",
+          "Considere duplicidade quando a palavra parecer curta demais para as pistas."
+        ],
+        "faqTitle": "Perguntas frequentes sobre o Termo de 5 letras",
+        "faqSubtitle": "O modo clássico em detalhes",
+        "faq": [
+          {
+            "question": "O Termo de 5 letras é o oficial?",
+            "answer": "Sim, este é o formato diário principal e o mais popular entre os jogadores."
+          },
+          {
+            "question": "Posso digitar sem acento?",
+            "answer": "Pode. O jogo aceita letras sem acento e faz a correspondência automaticamente."
+          },
+          {
+            "question": "Devo testar letras repetidas cedo?",
+            "answer": "Só depois de ter indícios. Repetir na primeira jogada costuma reduzir informação."
+          },
+          {
+            "question": "A estratégia muda no modo infinito?",
+            "answer": "A lógica é a mesma, mas o modo infinito é ideal para treinar aberturas diferentes."
+          }
+        ]
+      },
+      "6": {
+        "headingDescription": "Com 6 letras, as combinações aumentam e o controle das pistas vira prioridade.",
+        "introParagraphs": [
+          "No Termo de 6 letras, o número de combinações cresce e o jogo exige mais disciplina.",
+          "O tamanho maior favorece sufixos e padrões de finalização, então fique atento ao fim da palavra.",
+          "Quando estiver em dúvida, o buscador de 6 letras ajuda a validar o encaixe das pistas."
+        ],
+        "tips": [
+          "Use 3 vogais e 3 consoantes fortes para abrir o mapa.",
+          "Se surgir uma verde, mantenha a posição e trabalhe o restante.",
+          "Considere sufixos simples quando tiver 3 ou mais letras certas.",
+          "Verifique repetição de vogais, ela aparece mais do que em tamanhos menores."
+        ],
+        "faqTitle": "Perguntas frequentes sobre o Termo de 6 letras",
+        "faqSubtitle": "Como lidar com palavras maiores",
+        "faq": [
+          {
+            "question": "O modo de 6 letras é mais difícil?",
+            "answer": "Ele é mais longo e tem mais combinações, por isso exige melhor controle das pistas."
+          },
+          {
+            "question": "Como identificar o final da palavra?",
+            "answer": "Use as letras verdes e amarelas para testar sufixos comuns assim que tiver 3 letras certas."
+          },
+          {
+            "question": "Repetição de letras é frequente?",
+            "answer": "Sim, principalmente de vogais. Se o padrão parecer curto demais, considere duplicidade."
+          },
+          {
+            "question": "Vale usar uma jogada de cobertura?",
+            "answer": "Sim, se ainda houver muitas opções. Uma cobertura bem escolhida salva tentativas."
+          }
+        ]
+      },
+      "7": {
+        "headingDescription": "Sete letras pedem leitura em blocos e decisões mais estratégicas.",
+        "introParagraphs": [
+          "Com 7 letras, o Termo vira um quebra-cabeça maior. A chave é dividir a palavra em blocos.",
+          "O início e o fim costumam dar pistas fortes, enquanto o miolo precisa de testes cuidadosos.",
+          "O buscador de 7 letras ajuda a reorganizar letras amarelas sem perder tempo."
+        ],
+        "tips": [
+          "Escolha uma abertura com 3 vogais e consoantes variadas.",
+          "Separe a palavra em início, meio e fim para testar posições.",
+          "Use o teclado colorido para evitar repetir letras descartadas.",
+          "Se restar apenas o miolo, teste pares de letras comuns."
+        ],
+        "faqTitle": "Perguntas frequentes sobre o Termo de 7 letras",
+        "faqSubtitle": "Estratégias para palavras longas",
+        "faq": [
+          {
+            "question": "Devo focar em prefixo ou sufixo primeiro?",
+            "answer": "Comece pelo bloco mais claro nas pistas. Fixar uma extremidade ajuda a organizar o resto."
+          },
+          {
+            "question": "Como evitar chutes cedo demais?",
+            "answer": "Use uma jogada de cobertura quando ainda houver muitas letras desconhecidas."
+          },
+          {
+            "question": "A repetição de letras aparece mais?",
+            "answer": "Sim. Em 7 letras, duplicidade é mais provável do que nos modos curtos."
+          },
+          {
+            "question": "O buscador serve para confirmar sufixos?",
+            "answer": "Serve sim. Fixe as letras finais e veja quais combinações permanecem válidas."
+          }
+        ]
+      },
+      "8": {
+        "headingDescription": "Oito letras destacam padrões de finalização e repetição.",
+        "introParagraphs": [
+          "No Termo de 8 letras, as palavras costumam ter estrutura bem definida. Ler padrões de finalização acelera muito.",
+          "A quantidade de letras permite mais repetições, então fique atento a vogais duplicadas.",
+          "O buscador de 8 letras é um bom aliado para testar sufixos quando o fim estiver claro."
+        ],
+        "tips": [
+          "Abra com 3 vogais e 5 consoantes distintas para maximizar cobertura.",
+          "Se duas letras vierem amarelas, priorize reposicioná-las imediatamente.",
+          "Teste possíveis sufixos quando tiver 4 letras confirmadas.",
+          "Não ignore letras raras, elas aparecem mais em palavras longas."
+        ],
+        "faqTitle": "Perguntas frequentes sobre o Termo de 8 letras",
+        "faqSubtitle": "Como aproveitar as pistas em palavras extensas",
+        "faq": [
+          {
+            "question": "O que muda no modo de 8 letras?",
+            "answer": "Mais letras significam mais combinações e maior chance de repetição, então o planejamento precisa ser cuidadoso."
+          },
+          {
+            "question": "Quando vale testar sufixos longos?",
+            "answer": "Assim que tiver pistas fortes no final. Testar o sufixo reduz muitas opções de uma vez."
+          },
+          {
+            "question": "Preciso de mais tentativas?",
+            "answer": "Não. As 6 tentativas continuam, por isso a abertura precisa ser bem informativa."
+          },
+          {
+            "question": "Como usar o buscador sem perder tempo?",
+            "answer": "Use apenas quando já tiver 4 ou 5 letras certas para confirmar o encaixe final."
+          }
+        ]
+      },
+      "9": {
+        "headingDescription": "Nove letras exigem raciocínio por sílabas e atenção ao miolo.",
+        "introParagraphs": [
+          "No Termo de 9 letras, a estratégia mais eficiente é pensar em sílabas e blocos.",
+          "A palavra tende a ter estrutura clara, mas o miolo costuma esconder letras menos frequentes.",
+          "O buscador de 9 letras serve para validar combinações quando o padrão geral já está formado."
+        ],
+        "tips": [
+          "Abra com alta diversidade de letras e 3 vogais distintas.",
+          "Evite repetir letras no início, cada nova pista vale muito.",
+          "Quando tiver 4 letras certas, trabalhe o encaixe do miolo.",
+          "Confirme se existe duplicidade antes de finalizar."
+        ],
+        "faqTitle": "Perguntas frequentes sobre o Termo de 9 letras",
+        "faqSubtitle": "Táticas para um desafio mais longo",
+        "faq": [
+          {
+            "question": "Palavras de 9 letras seguem padrões?",
+            "answer": "Muitas seguem, principalmente nos finais. Use isso como pista, mas confirme com as letras."
+          },
+          {
+            "question": "Devo priorizar vogais ou consoantes?",
+            "answer": "No início, equilíbrio. Depois, foque nas consoantes que ainda faltam para fechar o miolo."
+          },
+          {
+            "question": "Como evitar perder tentativas?",
+            "answer": "Use uma jogada de cobertura se ainda houver muitas letras desconhecidas."
+          },
+          {
+            "question": "O buscador ajuda mesmo em palavras longas?",
+            "answer": "Sim, quando você já sabe o padrão geral e precisa escolher a combinação correta."
+          }
+        ]
+      },
+      "10": {
+        "headingDescription": "Dez letras é o modo ideal para quem gosta de padrões longos e encaixe progressivo.",
+        "introParagraphs": [
+          "No Termo de 10 letras, reconhecer padrões morfológicos acelera muito. Palavras longas quase sempre seguem estruturas conhecidas.",
+          "O número de combinações é alto, por isso abrir bem é essencial para não perder tentativas.",
+          "O buscador de 10 letras funciona melhor quando você já travou o início ou o fim."
+        ],
+        "tips": [
+          "Abra com o máximo de letras diferentes possível.",
+          "Inclua 3 vogais e consoantes fortes para mapear o esqueleto.",
+          "Teste terminações longas quando as pistas indicarem.",
+          "Se a palavra parecer incompleta, investigue repetição de letras."
+        ],
+        "faqTitle": "Perguntas frequentes sobre o Termo de 10 letras",
+        "faqSubtitle": "Como ler palavras muito longas",
+        "faq": [
+          {
+            "question": "Esse modo exige mais tempo?",
+            "answer": "Sim, o raciocínio é mais detalhado. Use o tempo para analisar blocos e não apenas letras isoladas."
+          },
+          {
+            "question": "Quando usar sufixos longos?",
+            "answer": "Assim que houver pistas no final. Eles ajudam a travar metade da palavra."
+          },
+          {
+            "question": "A repetição de letras é comum?",
+            "answer": "É mais frequente do que em tamanhos menores, principalmente de vogais."
+          },
+          {
+            "question": "O buscador pode decidir a palavra final?",
+            "answer": "Pode, mas use com critério. Primeiro confirme o padrão geral com as cores."
+          }
+        ]
+      },
+      "11": {
+        "headingDescription": "Onze letras é o desafio máximo: planeje blocos e confirme cada posição.",
+        "introParagraphs": [
+          "No Termo de 11 letras, o desafio vira quase uma análise de padrões. A palavra precisa ser desmontada em partes grandes.",
+          "Com muitas letras, a chance de repetição aumenta e o risco de confundir posições também.",
+          "O buscador de 11 letras é ideal para confirmar o encaixe final quando o bloco principal já está definido."
+        ],
+        "tips": [
+          "Priorize uma abertura com 3 ou 4 vogais diferentes.",
+          "Trabalhe com prefixo e sufixo antes de resolver o miolo.",
+          "Se houver muitas amarelas, reorganize antes de testar novas letras.",
+          "Cheque duplicidade sempre que a palavra parecer curta demais para as pistas."
+        ],
+        "faqTitle": "Perguntas frequentes sobre o Termo de 11 letras",
+        "faqSubtitle": "Dominando o maior modo do jogo",
+        "faq": [
+          {
+            "question": "É possível acertar em poucas tentativas?",
+            "answer": "Sim, mas exige uma abertura muito informativa e leitura cuidadosa das pistas."
+          },
+          {
+            "question": "Como lidar com tantas combinações?",
+            "answer": "Divida em blocos e fixe o que já está certo. O restante fica mais simples."
+          },
+          {
+            "question": "Duplicidade de letras é regra?",
+            "answer": "Não é regra, mas é bem mais provável. Considere isso quando faltar uma letra."
+          },
+          {
+            "question": "Quando vale usar o buscador?",
+            "answer": "Quando você já tiver metade da palavra definida e precisar escolher o encaixe correto."
+          }
+        ]
+      }
+    }
+  }
+}
